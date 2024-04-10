@@ -702,7 +702,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="325"></int>
+                           <int value="331"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -716,7 +716,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="7_123_2.16"></unicode>
+                         <unicode value="7_123_2.17"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="14">
                           <dictionary>
@@ -727,7 +727,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="img0.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmp_JT_GI/img0.png"></string>
+                           <string value="/tmp/tmpLyunnc/img0.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="91f51486389ce9c71c1950a23c6c3d7d"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -756,7 +756,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="17"></int>
+                    <int value="18"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="13"></reference>
                    </dictionary>
@@ -1211,7 +1211,7 @@ MathJax.Hub.Config({
                        <dictionary></dictionary>
                        <string role="key" value="content_w_resourcePaths"></string>
                        <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;La radiación térmica es la &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:EM_Spectrum_Properties_es.svg#/media/Archivo:EM_Spectrum_Properties_es.svg&quot;&gt;radiación electromagnética &lt;/a&gt;( de cualquier parte del espectro) que surge debido a la temperatura del cuerpo.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Infrared_dog.jpg#/media/Archivo:Infrared_dog.jpg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/0/0c/Infrared_dog.jpg&quot; alt=&quot;Infrared dog.jpg&quot; height=&quot;212&quot; width=&quot;416&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;De NASA/IPAC , Dominio público, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=38994&quot;&gt;Enlace&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Infrared_dog.jpg#/media/Archivo:Infrared_dog.jpg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/0/0c/Infrared_dog.jpg&quot; alt=&quot;Infrared dog.jpg&quot; width=&quot;416&quot; height=&quot;212&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;De NASA/IPAC , Dominio público, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=38994&quot;&gt;Enlace&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;En realidad cualquier cuerpo emite radiación a cualquier temperatura, lo que ocurre es que sólo somos capaces de observar los cambios de color que ocurren dentro del rango del espectro visible.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Para poder estudiar la radiación en cualquier cuerpo y a cualquier temperatura se parte de un modelo ideal que denominamos &lt;strong&gt;CUERPO NEGRO.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Las &lt;strong&gt;características del cuerpo negro son:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1223,7 +1223,7 @@ MathJax.Hub.Config({
 &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Una cavidad parecida a la figura es una buena aproximación de cuerpo negro. Al entrar la radiación por el orificio sufre varias reflexiones y sus paredes absorbentes hacen posible que la radiación quede dentro. De igual manera al calentarlo por el orificio sale toda la radiación que puede emitir.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;LEY DE WIEN&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Si representamos la intensidad de la onda que emite un cuerpo en función de la su longitud de onda y para varias temperaturas obtenemos una gráfica como la de la figura.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Black_body_es.svg#/media/Archivo:Black_body_es.svg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/Black_body_es.svg&quot; alt=&quot;Black body es.svg&quot; height=&quot;480&quot; width=&quot;600&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;De Wikipedia, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0&quot; title=&quot;Creative Commons Attribution-Share Alike 4.0&quot;&gt;CC BY-SA 4.0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=37984144&quot;&gt;Enlace&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Black_body_es.svg#/media/Archivo:Black_body_es.svg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/Black_body_es.svg&quot; alt=&quot;Black body es.svg&quot; width=&quot;600&quot; height=&quot;480&quot; /&gt;&lt;/a&gt;&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;De Wikipedia, &lt;a href=&quot;https://creativecommons.org/licenses/by-sa/4.0&quot; title=&quot;Creative Commons Attribution-Share Alike 4.0&quot;&gt;CC BY-SA 4.0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=37984144&quot;&gt;Enlace&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Observamos que para cada temperatura hay un máximo distinto, esto de conoce como &lt;span style=&quot;color: #ff0000;&quot;&gt;Ley de Wien.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;$\boxed{\lambda = \frac{cte}{T}}$ donde $cte=2,8976K\cdot m$&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Esta ley era válida hasta que se entraba en el rango de la radiación ultravioleta por lo que a este problema se le llamó &lt;span style=&quot;color: #ff0000;&quot;&gt;catástrofe ultravioleta. &lt;/span&gt;Se le daría solución gracias a &lt;strong&gt;Planck.&lt;/strong&gt;&lt;/p&gt;
@@ -1232,7 +1232,8 @@ MathJax.Hub.Config({
 &lt;li&gt;La energía de esta radiación no es continua sino que se emite en pequeños paquete denominados &lt;strong&gt;cuantos, &lt;/strong&gt;como si fueran partículas.&lt;/li&gt;
 &lt;li&gt;La energía de un &quot;cuanto&quot; depende de la frecuencia a la que vibran los átomos del material. $\boxed{E=h\cdot f}$ donde $h=6,63\cdot 10^{-34} J\cdot s$ es la &lt;strong&gt;constante de Planck.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;La energía está cuantizada&lt;/strong&gt;, es decir, sólo se pueden emitir un número entero de cuantos de energía por lo que la energía total de cualquier cuerpo es: $\boxed{E=n_T \cdot h\cdot f}$&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;"></unicode>
+&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Observa la simulación.&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;Puedes observar una simulación de este efecto desde la página del &lt;a href=&quot;https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/blackbody-spectrum_all.html?locale=es&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PHET.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://phet.colorado.edu/es/&quot;&gt;&lt;img src=&quot;https://phet.colorado.edu/images/phet-logo-trademarked.png&quot; alt=&quot;&quot; width=&quot;1192&quot; height=&quot;563&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                        <int value="4"></int>
                        <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1252,7 +1253,7 @@ MathJax.Hub.Config({
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="322"></int>
+                              <int value="328"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -1266,7 +1267,7 @@ MathJax.Hub.Config({
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="14_120_2.15"></unicode>
+                            <unicode value="14_120_2.16"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="24">
                              <dictionary>
@@ -1277,7 +1278,7 @@ MathJax.Hub.Config({
                               <string role="key" value="_storageName"></string>
                               <string value="blackboody.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="/tmp/tmp_JT_GI/blackboody.png"></string>
+                              <string value="/tmp/tmpLyunnc/blackboody.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="3258db3552ec6d02de9bba743faffd26"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1306,7 +1307,7 @@ MathJax.Hub.Config({
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="16"></int>
+                       <int value="17"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="23"></reference>
                       </dictionary>
@@ -1445,7 +1446,7 @@ MathJax.Hub.Config({
 &lt;li&gt;Consiste en la emisión de electrones por un metal cuando se le incide con radiación electromagnética.&lt;/li&gt;
 &lt;li&gt;Descubierto por Hertz, al usar radiación ultravioleta sobre Zinc.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;resources/imagen.png&quot; width=&quot;390&quot; height=&quot;248&quot; alt=&quot;Efecto fotoeléctrico&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/imagen.png&quot; alt=&quot;Efecto fotoeléctrico&quot; width=&quot;390&quot; height=&quot;248&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Explicación clásica:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Los $e^{-}$ no se emiten de manera instantánea.&lt;/li&gt;
@@ -1470,16 +1471,17 @@ MathJax.Hub.Config({
 &lt;li&gt;El electrón, antes de ser emitido, debe vencer la atracción nuclear a esto se le llama &lt;span style=&quot;color: #ff0000;&quot;&gt;trabajo de extracción($W_{ext}$) --&amp;gt; $W_{ext}=h \cdot f_0$ &lt;/span&gt;donde &lt;strong&gt;$f_0$&lt;/strong&gt; es la frecuencia umbral del metal. ($\lambda_0=\frac{c}{f_0}$).&lt;/li&gt;
 &lt;li&gt;Si la energía del fotón no supera al trabajo de extracción no se emite el electrón. Si es mayor, la energía sobrante se transformará en energía cinética para el electrón.&lt;br /&gt;$$\boxed{E_{foton}=W_{extr} +E_c} \rightarrow h\cdot f = h \cdot f_0 + \frac{1}{2}m\cdot v^2 \rightarrow \boxed{E_c= h \cdot (f-f_0)} $$&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;resources/imagen.1.png&quot; width=&quot;917&quot; height=&quot;451&quot; alt=&quot;Eefecto fotoeléctrico&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/imagen.1.png&quot; alt=&quot;Eefecto fotoeléctrico&quot; width=&quot;917&quot; height=&quot;451&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;La pendiente de la recta es la constante de Planck.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;POTENCIAL DE FRENADO ($V_r$).&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Experimentalmente la velocidad de los electrones se puede calcular frenando los electrones con ayuda de un campo eléctrico. Esto es conectando una corriente eléctrica que controlamos mediante su diferencia de potencial. Cuando se dejan de emitir electrones se ha llegado al &lt;span style=&quot;color: #ff0000;&quot;&gt;potencial de frenado.&lt;/span&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&quot;resources/imagen.2.png&quot; width=&quot;541&quot; height=&quot;263&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/imagen.2.png&quot; alt=&quot;&quot; width=&quot;541&quot; height=&quot;263&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;$\Delta E_m = 0 \rightarrow \Delta E_c + \Delta E_p = 0 \rightarrow 0-Ec + eV_r \rightarrow \boxed{V_r=\frac{E_c}{e}}$&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/imagen.3.png&quot; width=&quot;531&quot; height=&quot;261&quot; alt=&quot;Gráfica frenado&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;De esta gráfica la pendiente es $h/e$.&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;&lt;img src=&quot;resources/imagen.3.png&quot; alt=&quot;Gráfica frenado&quot; width=&quot;531&quot; height=&quot;261&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;De esta gráfica la pendiente es $h/e$.&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Observa la simulación.&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;Puedes observar una simulación de este efecto desde la página del &lt;a href=&quot;https://phet.colorado.edu/sims/cheerpj/photoelectric/latest/photoelectric.html?simulation=photoelectric&amp;amp;locale=es&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PHET.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://phet.colorado.edu/es/&quot;&gt;&lt;img src=&quot;https://phet.colorado.edu/images/phet-logo-trademarked.png&quot; alt=&quot;&quot; width=&quot;1192&quot; height=&quot;563&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                        <int value="4"></int>
                        <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -1499,7 +1501,7 @@ MathJax.Hub.Config({
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="320"></int>
+                              <int value="326"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -1513,7 +1515,7 @@ MathJax.Hub.Config({
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="15_120_2.58"></unicode>
+                            <unicode value="15_120_2.62"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="28">
                              <dictionary>
@@ -1524,7 +1526,7 @@ MathJax.Hub.Config({
                               <string role="key" value="_storageName"></string>
                               <string value="imagen.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="/tmp/tmp_JT_GI/imagen.png"></string>
+                              <string value="/tmp/tmpLyunnc/imagen.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="529c3af1b50f6e664401d06bbeabd4dc"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1551,7 +1553,7 @@ MathJax.Hub.Config({
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="321"></int>
+                              <int value="327"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -1565,7 +1567,7 @@ MathJax.Hub.Config({
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="15_120_2.59"></unicode>
+                            <unicode value="15_120_2.63"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="29">
                              <dictionary>
@@ -1576,7 +1578,7 @@ MathJax.Hub.Config({
                               <string role="key" value="_storageName"></string>
                               <string value="imagen.2.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="/tmp/tmp_JT_GI/imagen.2.png"></string>
+                              <string value="/tmp/tmpLyunnc/imagen.2.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="89dac2902a6a6945e95399be574fb492"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1603,7 +1605,7 @@ MathJax.Hub.Config({
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="323"></int>
+                              <int value="329"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -1617,7 +1619,7 @@ MathJax.Hub.Config({
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="15_120_2.60"></unicode>
+                            <unicode value="15_120_2.64"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="30">
                              <dictionary>
@@ -1628,7 +1630,7 @@ MathJax.Hub.Config({
                               <string role="key" value="_storageName"></string>
                               <string value="imagen.1.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="/tmp/tmp_JT_GI/imagen.1.png"></string>
+                              <string value="/tmp/tmpLyunnc/imagen.1.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="2b76b2743d53819da3e816aa3b6fb419"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1655,7 +1657,7 @@ MathJax.Hub.Config({
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="324"></int>
+                              <int value="330"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -1669,7 +1671,7 @@ MathJax.Hub.Config({
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="15_120_2.61"></unicode>
+                            <unicode value="15_120_2.65"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="31">
                              <dictionary>
@@ -1680,7 +1682,7 @@ MathJax.Hub.Config({
                               <string role="key" value="_storageName"></string>
                               <string value="imagen.3.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="/tmp/tmp_JT_GI/imagen.3.png"></string>
+                              <string value="/tmp/tmpLyunnc/imagen.3.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="5724b880c48e6d78178eeb0eccd8e6b1"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1709,7 +1711,7 @@ MathJax.Hub.Config({
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="62"></int>
+                       <int value="66"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="27"></reference>
                       </dictionary>
@@ -3154,7 +3156,7 @@ MathJax.Hub.Config({
                 <string role="key" value="_storageName"></string>
                 <string value="Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmp_JT_GI/Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
+                <string value="/tmp/tmpLyunnc/Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="3cff8c082315b929e299fbf99277db55"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3469,7 +3471,7 @@ MathJax.Hub.Config({
   <string role="key" value="backgroundImgTile"></string>
   <bool value="1"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="56"></reference>
+  <reference key="27"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
