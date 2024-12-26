@@ -1595,7 +1595,7 @@ MathJax.Hub.Config({
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;iframe width=&quot;480&quot; height=&quot;299&quot; src=&quot;https://docs.google.com/presentation/d/e/2PACX-1vT0dttFi2NM8oSwqi4jVVMbhx0oOTHB_FHgJvjGzs9C1bT5ej_TjXFlVo_pViEQsJTBSQazwTl4hhD7/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;Si quieres verlos a pantalla completa pulsa &lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vT0dttFi2NM8oSwqi4jVVMbhx0oOTHB_FHgJvjGzs9C1bT5ej_TjXFlVo_pViEQsJTBSQazwTl4hhD7/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot;&gt;aquí.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Si quieres descargar el boletín de ejercicios pulsa &lt;a href=&quot;https://docs.google.com/document/d/1kE4Kqdb6VFj_CIEW6PCNNW3inaXeCxQGfMwog5k12vw/export?format=pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;Si quieres descargar el boletín de ejercicios pulsa &lt;a href=&quot;https://docs.google.com/document/d/1kE4Kqdb6VFj_CIEW6PCNNW3inaXeCxQGfMwog5k12vw/export?tab=t.0?format=pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2275,7 +2275,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="img0.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpdTPrld/img0.png"></string>
+                           <string value="/tmp/tmp2pALkx/img0.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="91f51486389ce9c71c1950a23c6c3d7d"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2828,7 +2828,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="blackboody.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpdTPrld/blackboody.png"></string>
+                           <string value="/tmp/tmp2pALkx/blackboody.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="3258db3552ec6d02de9bba743faffd26"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3076,7 +3076,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.3.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpdTPrld/imagen.3.png"></string>
+                           <string value="/tmp/tmp2pALkx/imagen.3.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="5724b880c48e6d78178eeb0eccd8e6b1"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3128,7 +3128,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpdTPrld/imagen.2.png"></string>
+                           <string value="/tmp/tmp2pALkx/imagen.2.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="89dac2902a6a6945e95399be574fb492"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3180,7 +3180,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpdTPrld/imagen.1.png"></string>
+                           <string value="/tmp/tmp2pALkx/imagen.1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="2b76b2743d53819da3e816aa3b6fb419"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3232,7 +3232,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpdTPrld/imagen.png"></string>
+                           <string value="/tmp/tmp2pALkx/imagen.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="529c3af1b50f6e664401d06bbeabd4dc"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4548,7 +4548,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="solucion.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpdTPrld/solucion.png"></string>
+                           <string value="/tmp/tmp2pALkx/solucion.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="5945ea5835669acb65f33c39bbb56536"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5202,7 +5202,7 @@ $(window).load(function(){
 &lt;p&gt;Propuesto por el físico neozelandés Ernest Rutherford, este modelo, también conocido como modelo atómico nuclear, propone que el átomo está formado por un núcleo central positivo, en el que se encuentran la mayor parte de la masa y toda la carga positiva, y electrones orbitando alrededor del núcleo en órbitas circulares.&lt;br /&gt;El núcleo está compuesto por protones y neutrones.&lt;br /&gt;Los protones tienen carga positiva, mientras que los neutrones no tienen carga.&lt;br /&gt;Los electrones son mucho más pequeños y ligeros que los protones y neutrones.&lt;br /&gt;La mayoría del espacio del átomo está vacío.&lt;/p&gt;
 &lt;p&gt;El modelo de Rutherford fue un gran avance en la comprensión del átomo, ya que demostró que no era una partícula indivisible y que tenía una estructura interna compleja. Sin embargo, este modelo presentaba algunas limitaciones, como la inestabilidad de las órbitas de los electrones, que no podía explicarse con las leyes de la física clásica.&lt;/p&gt;
 &lt;p&gt;Estos modelos atómicos, junto con los posteriores desarrollos en la física cuántica, han permitido comprender mejor la estructura y el comportamiento del átomo, sentando las bases para el desarrollo de la química, la física y otras áreas de la ciencia.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Rutherford_atom.svg#/media/Archivo:Rutherford_atom.svg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/9/92/Rutherford_atom.svg&quot; alt=&quot;Rutherford atom.svg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot; title=&quot;Creative Commons Attribution-Share Alike 3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=1902954&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Ampliación.&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;Aunque en este tema nos basaremos sobre todo en el modelo de Ruttherford existen modelos más precios como son el modelo de Bohr o incluso el actual, de Chadwick.&lt;br /&gt;Puedes consultarlos &lt;a href=&quot;https://es.wikipedia.org/wiki/Modelo_at%C3%B3mico&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;aquí.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Rutherford_atom.svg#/media/Archivo:Rutherford_atom.svg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/9/92/Rutherford_atom.svg&quot; alt=&quot;Rutherford atom.svg&quot; width=&quot;600&quot; height=&quot;600&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot; title=&quot;Creative Commons Attribution-Share Alike 3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=1902954&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Ampliación.&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;Aunque en este tema nos basaremos sobre todo en el modelo de Ruttherford existen modelos más precisos como son el modelo de Bohr o incluso el actual, de Chadwick.&lt;br /&gt;Puedes consultarlos &lt;a href=&quot;https://es.wikipedia.org/wiki/Modelo_at%C3%B3mico&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;aquí.&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -7850,7 +7850,7 @@ $(window).load(function(){
                 <string role="key" value="_storageName"></string>
                 <string value="Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpdTPrld/Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
+                <string value="/tmp/tmp2pALkx/Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="3cff8c082315b929e299fbf99277db55"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8199,7 +8199,7 @@ $(window).load(function(){
   <string role="key" value="backgroundImgTile"></string>
   <bool value="1"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="37"></reference>
+  <reference key="93"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
