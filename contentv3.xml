@@ -1909,9 +1909,7 @@ MathJax.Hub.Config({
 &lt;p&gt;2º El rayo que entra por el foco debe salir paralelo al eje óptico.&lt;/p&gt;
 &lt;p&gt; &lt;img src=&quot;resources/Espejo_Concavo.png&quot; alt=&quot;&quot; width=&quot;3000&quot; height=&quot;1522&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;ii) Usamos las ecuaciones de Gauss para espejos esféricos:&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/geogebra-export.png&quot; alt=&quot;&quot; width=&quot;3000&quot; height=&quot;1736&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/c1evauJulio2024_2.png&quot; alt=&quot;&quot; width=&quot;664&quot; height=&quot;442&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;b) i) y ii)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/LentePlanaConvergente_(1).png&quot; alt=&quot;&quot; width=&quot;3000&quot; height=&quot;1406&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1933,7 +1931,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="561"></int>
+                           <int value="572"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1947,7 +1945,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.18"></unicode>
+                         <unicode value="69_129_2.22"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="38">
                           <dictionary>
@@ -1958,7 +1956,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="material-svubkt6n.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpOjqepy/material-svubkt6n.png"></string>
+                           <string value="/tmp/tmp7BA9i2/material-svubkt6n.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="14a14b3e70a901d5c1a6610eb3462873"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1985,7 +1983,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="564"></int>
+                           <int value="575"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1999,7 +1997,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.19"></unicode>
+                         <unicode value="69_129_2.23"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="39">
                           <dictionary>
@@ -2010,7 +2008,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="LentePlanaConvergente_(1).png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpOjqepy/LentePlanaConvergente_(1).png"></string>
+                           <string value="/tmp/tmp7BA9i2/LentePlanaConvergente_(1).png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="30da402b5ff172610a5147a7d29107c8"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2037,7 +2035,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="567"></int>
+                           <int value="578"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2051,7 +2049,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.20"></unicode>
+                         <unicode value="69_129_2.24"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="40">
                           <dictionary>
@@ -2062,7 +2060,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="Espejo_Concavo.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpOjqepy/Espejo_Concavo.png"></string>
+                           <string value="/tmp/tmp7BA9i2/Espejo_Concavo.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="aeccd7b71fb21fa439077e456fa0e067"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2089,7 +2087,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="569"></int>
+                           <int value="583"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2103,7 +2101,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.21"></unicode>
+                         <unicode value="69_129_2.26"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="41">
                           <dictionary>
@@ -2112,11 +2110,11 @@ MathJax.Hub.Config({
                            <string role="key" value="_package"></string>
                            <reference key="4"></reference>
                            <string role="key" value="_storageName"></string>
-                           <string value="geogebra-export.png"></string>
+                           <string value="c1evauJulio2024_2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpOjqepy/geogebra-export.png"></string>
+                           <string value="/tmp/tmpQhyAwg.eXe/previews/allyourbase/c1evauJulio2024_2.png"></string>
                            <string role="key" value="checksum"></string>
-                           <string value="2415ebde8b98486eed7d065455ff53b7"></string>
+                           <string value="d95462147d4a1a9f53186ec4449b4fc3"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                            <int value="2"></int>
                            <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -2143,7 +2141,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="22"></int>
+                    <int value="27"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="37"></reference>
                    </dictionary>
@@ -2629,7 +2627,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="566"></int>
+                           <int value="577"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2643,7 +2641,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="7_123_2.50"></unicode>
+                         <unicode value="7_123_2.51"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="51">
                           <dictionary>
@@ -2654,7 +2652,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="img0.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpOjqepy/img0.png"></string>
+                           <string value="/tmp/tmp7BA9i2/img0.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="91f51486389ce9c71c1950a23c6c3d7d"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2683,7 +2681,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="51"></int>
+                    <int value="52"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="50"></reference>
                    </dictionary>
@@ -3182,7 +3180,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="568"></int>
+                           <int value="579"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3196,7 +3194,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="14_120_2.49"></unicode>
+                         <unicode value="14_120_2.50"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="61">
                           <dictionary>
@@ -3207,7 +3205,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="blackboody.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpOjqepy/blackboody.png"></string>
+                           <string value="/tmp/tmp7BA9i2/blackboody.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="3258db3552ec6d02de9bba743faffd26"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3236,7 +3234,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="50"></int>
+                    <int value="51"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="60"></reference>
                    </dictionary>
@@ -3430,7 +3428,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="562"></int>
+                           <int value="573"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3444,7 +3442,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.194"></unicode>
+                         <unicode value="15_120_2.198"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="65">
                           <dictionary>
@@ -3455,7 +3453,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.3.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpOjqepy/imagen.3.png"></string>
+                           <string value="/tmp/tmp7BA9i2/imagen.3.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="5724b880c48e6d78178eeb0eccd8e6b1"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3482,7 +3480,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="563"></int>
+                           <int value="574"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3496,7 +3494,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.195"></unicode>
+                         <unicode value="15_120_2.199"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="66">
                           <dictionary>
@@ -3507,7 +3505,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpOjqepy/imagen.2.png"></string>
+                           <string value="/tmp/tmp7BA9i2/imagen.2.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="89dac2902a6a6945e95399be574fb492"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3534,7 +3532,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="565"></int>
+                           <int value="576"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3548,7 +3546,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.196"></unicode>
+                         <unicode value="15_120_2.200"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="67">
                           <dictionary>
@@ -3559,7 +3557,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpOjqepy/imagen.1.png"></string>
+                           <string value="/tmp/tmp7BA9i2/imagen.1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="2b76b2743d53819da3e816aa3b6fb419"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3586,7 +3584,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="571"></int>
+                           <int value="582"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3600,7 +3598,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.197"></unicode>
+                         <unicode value="15_120_2.201"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="68">
                           <dictionary>
@@ -3611,7 +3609,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpOjqepy/imagen.png"></string>
+                           <string value="/tmp/tmp7BA9i2/imagen.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="529c3af1b50f6e664401d06bbeabd4dc"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3640,7 +3638,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="198"></int>
+                    <int value="202"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="64"></reference>
                    </dictionary>
@@ -4902,7 +4900,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="570"></int>
+                           <int value="581"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -4916,7 +4914,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="52_127_2.15"></unicode>
+                         <unicode value="52_127_2.16"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="89">
                           <dictionary>
@@ -4927,7 +4925,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="solucion.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpOjqepy/solucion.png"></string>
+                           <string value="/tmp/tmp7BA9i2/solucion.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="5945ea5835669acb65f33c39bbb56536"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4956,7 +4954,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="16"></int>
+                    <int value="17"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="80"></reference>
                    </dictionary>
@@ -8229,7 +8227,7 @@ $(window).load(function(){
                 <string role="key" value="_storageName"></string>
                 <string value="Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpOjqepy/Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
+                <string value="/tmp/tmp7BA9i2/Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="3cff8c082315b929e299fbf99277db55"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -9966,10 +9964,6 @@ $(window).load(function(){
    <list>
     <reference key="38"></reference>
    </list>
-   <string role="key" value="2415ebde8b98486eed7d065455ff53b7"></string>
-   <list>
-    <reference key="41"></reference>
-   </list>
    <string role="key" value="2b76b2743d53819da3e816aa3b6fb419"></string>
    <list>
     <reference key="67"></reference>
@@ -10009,6 +10003,10 @@ $(window).load(function(){
    <string role="key" value="aeccd7b71fb21fa439077e456fa0e067"></string>
    <list>
     <reference key="40"></reference>
+   </list>
+   <string role="key" value="d95462147d4a1a9f53186ec4449b4fc3"></string>
+   <list>
+    <reference key="41"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
