@@ -112,7 +112,7 @@ MathJax.Hub.Config({
   <string role="key" value="_name"></string>
   <unicode value="FISIK_2BACH"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="70"></int>
+  <int value="71"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="37"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -1931,7 +1931,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="595"></int>
+                           <int value="639"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1945,7 +1945,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.31"></unicode>
+                         <unicode value="69_129_2.47"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="38">
                           <dictionary>
@@ -1956,7 +1956,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="material-svubkt6n.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmppQHWRs/material-svubkt6n.png"></string>
+                           <string value="/tmp/tmpYhvk31/material-svubkt6n.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="14a14b3e70a901d5c1a6610eb3462873"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1983,7 +1983,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="598"></int>
+                           <int value="642"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1997,7 +1997,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.32"></unicode>
+                         <unicode value="69_129_2.48"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="39">
                           <dictionary>
@@ -2008,7 +2008,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="LentePlanaConvergente_(1).png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmppQHWRs/LentePlanaConvergente_(1).png"></string>
+                           <string value="/tmp/tmpYhvk31/LentePlanaConvergente_(1).png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="30da402b5ff172610a5147a7d29107c8"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2035,7 +2035,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="601"></int>
+                           <int value="645"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2049,7 +2049,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.33"></unicode>
+                         <unicode value="69_129_2.49"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="40">
                           <dictionary>
@@ -2060,7 +2060,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="Espejo_Concavo.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmppQHWRs/Espejo_Concavo.png"></string>
+                           <string value="/tmp/tmpYhvk31/Espejo_Concavo.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="aeccd7b71fb21fa439077e456fa0e067"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2087,7 +2087,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="602"></int>
+                           <int value="646"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2101,7 +2101,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.34"></unicode>
+                         <unicode value="69_129_2.50"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="41">
                           <dictionary>
@@ -2112,7 +2112,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="c1evauJulio2024_2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmppQHWRs/c1evauJulio2024_2.png"></string>
+                           <string value="/tmp/tmpYhvk31/c1evauJulio2024_2.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="d95462147d4a1a9f53186ec4449b4fc3"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2141,7 +2141,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="35"></int>
+                    <int value="51"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="37"></reference>
                    </dictionary>
@@ -2627,7 +2627,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="600"></int>
+                           <int value="644"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2641,7 +2641,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="7_123_2.53"></unicode>
+                         <unicode value="7_123_2.57"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="51">
                           <dictionary>
@@ -2652,7 +2652,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="img0.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmppQHWRs/img0.png"></string>
+                           <string value="/tmp/tmpYhvk31/img0.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="91f51486389ce9c71c1950a23c6c3d7d"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2681,7 +2681,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="54"></int>
+                    <int value="58"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="50"></reference>
                    </dictionary>
@@ -3180,7 +3180,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="603"></int>
+                           <int value="647"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3194,7 +3194,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="14_120_2.52"></unicode>
+                         <unicode value="14_120_2.56"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="61">
                           <dictionary>
@@ -3205,7 +3205,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="blackboody.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmppQHWRs/blackboody.png"></string>
+                           <string value="/tmp/tmpYhvk31/blackboody.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="3258db3552ec6d02de9bba743faffd26"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3234,7 +3234,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="53"></int>
+                    <int value="57"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="60"></reference>
                    </dictionary>
@@ -3428,7 +3428,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="596"></int>
+                           <int value="640"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3442,7 +3442,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.206"></unicode>
+                         <unicode value="15_120_2.222"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="65">
                           <dictionary>
@@ -3453,7 +3453,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.3.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmppQHWRs/imagen.3.png"></string>
+                           <string value="/tmp/tmpYhvk31/imagen.3.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="5724b880c48e6d78178eeb0eccd8e6b1"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3480,7 +3480,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="597"></int>
+                           <int value="641"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3494,7 +3494,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.207"></unicode>
+                         <unicode value="15_120_2.223"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="66">
                           <dictionary>
@@ -3505,7 +3505,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmppQHWRs/imagen.2.png"></string>
+                           <string value="/tmp/tmpYhvk31/imagen.2.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="89dac2902a6a6945e95399be574fb492"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3532,7 +3532,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="599"></int>
+                           <int value="643"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3546,7 +3546,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.208"></unicode>
+                         <unicode value="15_120_2.224"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="67">
                           <dictionary>
@@ -3557,7 +3557,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmppQHWRs/imagen.1.png"></string>
+                           <string value="/tmp/tmpYhvk31/imagen.1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="2b76b2743d53819da3e816aa3b6fb419"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3584,7 +3584,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="605"></int>
+                           <int value="649"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3598,7 +3598,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.209"></unicode>
+                         <unicode value="15_120_2.225"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="68">
                           <dictionary>
@@ -3609,7 +3609,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmppQHWRs/imagen.png"></string>
+                           <string value="/tmp/tmpYhvk31/imagen.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="529c3af1b50f6e664401d06bbeabd4dc"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3638,7 +3638,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="210"></int>
+                    <int value="226"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="64"></reference>
                    </dictionary>
@@ -4900,7 +4900,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="604"></int>
+                           <int value="648"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -4914,7 +4914,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="52_127_2.18"></unicode>
+                         <unicode value="52_127_2.22"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="89">
                           <dictionary>
@@ -4925,7 +4925,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="solucion.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmppQHWRs/solucion.png"></string>
+                           <string value="/tmp/tmpYhvk31/solucion.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="5945ea5835669acb65f33c39bbb56536"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4954,7 +4954,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="19"></int>
+                    <int value="23"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="80"></reference>
                    </dictionary>
@@ -5106,14 +5106,14 @@ MathJax.Hub.Config({
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;Reserva 1. 2021&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;a)Al incidir un haz de luz de cierta frecuencia sobre un metal se produce efecto fotoeléctrico.&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;i.¿Qué condición cumple la frecuencia de la luz para que se produzca dicho efecto? Razone las respuestas.&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;ii.¿Qué ocurrirá si se aumenta la intensidad de dicho haz? Razone las respuestas.&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;b)La máxima longitud de onda con la que se produce el efecto fotoeléctrico en el calcio es de $4,62\cdot 10{−7}m$ . Calcule: &lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;i.La frecuencia umbral del calcio.&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;ii.Su trabajo de extracción.&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;iii.La energía cinética máxima de los electrones emitidos cuando se ilumina una lámina de calcio con luz ultravioleta de $2,5\cdot 10^{−7} m$.&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt; &lt;br /&gt;$h=6,63\cdot 10^{-34} J \cdot s$; $c=3 \cdot 10^8 m/s$.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;Reserva 2. 2021&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;a)Indique, razonando la respuesta, si la siguiente afirmación es verdadera o falsa: “En el efecto fotoeléctrico, los electrones emitidos por el metal tienen la misma energía que los fotones incidentes”&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;b)Al iluminar un electrodo de platino con dos haces de luz monocromáticos de longitudes de onda 1,5·10&lt;sup&gt;−7&lt;/sup&gt; m y &lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;m y 1·10&lt;sup&gt;−7 &lt;/sup&gt;m; se observa que la cinética máxima de los electrones emitidos es 3,52 eV y 7,66 eV, respectivamente. Determine razonadamente: &lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;i.La constante de Planck&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;ii.La frecuencia umbral del platino.&lt;br /&gt;$h=6,63\cdot 10^{-34} J \cdot s$; $c=3 \cdot 10^8 m/s$.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;Reserva 3. 2021.&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;a)A partir de la ecuación del efecto fotoeléctrico, razone si es cierta o falsa la siguiente afirmación: “La energía cinética máxima de los electrones emitidos varía linealmente con la frecuencia de la luz incidente”&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;b)Para medir el trabajo de extracción de un metal, A, se hace incidir un haz de luz monocromática sobre dos muestras, una de dicho metal, y otra de un metal, B, cuyo trabajo de extracción es 4,14 eV. Los potenciales de frenado de los electrones producidos son 9,93 V y 8,28 V, respectivamente. Calcule razonadamente:&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;i.La frecuencia de la luz utilizada&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;ii.El trabajo de extracción del metal A.&lt;br /&gt;$c=3 \cdot 10^8 m/s$ ;  $e=1,6 \cdot 10^{-19} C$.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;Junio. 2024&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;a) Dos partículas tienen la misma energía cinética. Deduzca de manera razonada la relación entre sus longitudes de onda de De Broglie si la masa de la primera es un tercio de la masa de la segunda.&lt;br /&gt;b)Un protón se mueve con una velocidad de $3,8\cdot10^3 m\cdot s^{-1}$. Determine razonadamente: i) la longitud de onda de DeBroglie asociada de dicho protón; ii) la energía cinética de un electrón que tuviera igual momento lineal que el  protón; iii) la velocidad del electrón.&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;$h=6,63\cdot 10^{-34} J \cdot s$; $m_{p}=1,67\cdot10^{−27}kg$; $m_e=9,1\cdot10^{−31} kg$.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;&lt;a href=&quot;https://www.geogebra.org/m/dsxwvqbc&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Junio. 2024&lt;/a&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;a) Dos partículas tienen la misma energía cinética. Deduzca de manera razonada la relación entre sus longitudes de onda de De Broglie si la masa de la primera es un tercio de la masa de la segunda.&lt;br /&gt;b)Un protón se mueve con una velocidad de $3,8\cdot10^3 m\cdot s^{-1}$. Determine razonadamente: i) la longitud de onda de DeBroglie asociada de dicho protón; ii) la energía cinética de un electrón que tuviera igual momento lineal que el  protón; iii) la velocidad del electrón.&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;$h=6,63\cdot 10^{-34} J \cdot s$; $m_{p}=1,67\cdot10^{−27}kg$; $m_e=9,1\cdot10^{−31} kg$.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;Julio 2021.&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;a)Enuncie la hipótesis de De Broglie y escriba su ecuación. Indique las magnitudes físicas involucradas y sus unidades en el Sistema Internacional.&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;b)Una partícula alfa emitida en el decaimiento radiactivo del U-238 posee una energía cinética de $6,72 \cdot 10^{−13} J$&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;i.¿Cuánto vale su longitud de onda de De Broglie asociada?&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;ii.¿Qué diferencia de potencial debería existir en una región del espacio para detener por completo la partícula alfa? Indique mediante un esquema la dirección y sentido del campo necesario para ello. Razone todas las respuestas.&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;&lt;br /&gt;$h=6,63\cdot 10^{-34} J \cdot s$; $m_{\alpha}=6,64 \cdot 10^{−27} kg$ &lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt; ; $e=1,6 \cdot 10^{-19} C$.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;Junio 2020.&lt;/span&gt;
 &lt;p&gt;a)Dos partículas de diferente masa tienen asociada una misma longitud de onda de De Broglie. Sabiendo que la energía cinética de una de ellas es el doble que la otra, determine la relación entre sus masas.&lt;br /&gt;b)Se acelera un protón desde el reposo mediante una diferencia de potencial de 1000 V. Determine:&lt;br /&gt;i.La velocidad que adquiere el protón.&lt;br /&gt;ii.Su longitud de onda de De Broglie.&lt;br /&gt;$h=6,63\cdot 10^{-34} J \cdot s$; $e=1,6 \cdot 10^{-19} C$; $m_p=1,7\cdot10^{−27}kg$.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li style=&quot;text-align: justify;&quot;&gt;Julio 2024.&lt;br /&gt;a) Razone si las siguientes afirmaciones son correctas: i) La energía de los fotoelectrones emitidos por un metal irradiado es la misma que la de los fotones absorbidos por dicho metal. ii) Si se irradia un metal con luz blanca, produciéndose el efecto fotoeléctrico en todo el rango de frecuencias de dicha luz, la mayor energía cinética corresponderá a los fotoelectrones emitidos por las componentes espectrales de la región del rojo.&lt;span style=&quot;font-size: 1.05em;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;&lt;br /&gt;b) Al iluminar un metal con luz de frecuencia 2,5·10 15 Hz se emiten electrones cuyo potencial de frenado es de 7,20 V.A continuación, se ilumina con otra luz de longitud de onda 1,8·10 -7 m y el potencial disminuye a 3,75 V. Determine  razonadamente: i) el valor de la constante de Planck; ii) el trabajo de extracción del metal.&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt;$e=1,6 \cdot 10^{-19} C$; $c=3\cdot 10^8 m/s$.&lt;/span&gt;&lt;/li&gt;
-&lt;/ol&gt;&lt;/div&gt;"></unicode>
+&lt;/ol&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Soluciones&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;Algunos ejercicios están resueltos. Para ver la solución clica en aquellos que tienen el título subrayado y te llevará a la página de Geogebra.&lt;/p&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -5164,6 +5164,133 @@ MathJax.Hub.Config({
                  <int value="0"></int>
                 </dictionary>
                </instance>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="93">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="0"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="94">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="127_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="93"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value=""></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="94"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="92"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="70"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="92"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
               </list>
               <string role="key" value="_id"></string>
               <unicode value="11"></unicode>
@@ -5188,13 +5315,13 @@ MathJax.Hub.Config({
            </list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="95">
+         <instance class="exe.engine.node.Node" reference="97">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Física Nuclear"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="93">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="95">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="¿Qué es la Física Nuclear?"></unicode>
@@ -5255,12 +5382,12 @@ MathJax.Hub.Config({
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="94">
+               <instance class="exe.engine.field.TextAreaField" reference="96">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="120_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="93"></reference>
+                 <reference key="95"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5286,7 +5413,7 @@ MathJax.Hub.Config({
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="94"></reference>
+                   <reference key="96"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5294,7 +5421,7 @@ MathJax.Hub.Config({
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="95"></reference>
+                 <reference key="97"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5311,7 +5438,7 @@ MathJax.Hub.Config({
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="95"></reference>
+              <reference key="97"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5322,7 +5449,7 @@ MathJax.Hub.Config({
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="96">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="98">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Índice."></unicode>
@@ -5383,12 +5510,12 @@ MathJax.Hub.Config({
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="97">
+               <instance class="exe.engine.field.TextAreaField" reference="99">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="121_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="96"></reference>
+                 <reference key="98"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5419,7 +5546,7 @@ MathJax.Hub.Config({
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="97"></reference>
+                   <reference key="99"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5427,7 +5554,7 @@ MathJax.Hub.Config({
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="95"></reference>
+                 <reference key="97"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5444,7 +5571,7 @@ MathJax.Hub.Config({
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="95"></reference>
+              <reference key="97"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5474,13 +5601,13 @@ MathJax.Hub.Config({
            <list></list>
            <string role="key" value="children"></string>
            <list>
-            <instance class="exe.engine.node.Node" reference="100">
+            <instance class="exe.engine.node.Node" reference="102">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Nucleos atómicos y estabilidad de isótopos."></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="98">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="100">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Modelos atómicos."></unicode>
@@ -5541,12 +5668,12 @@ MathJax.Hub.Config({
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="99">
+                  <instance class="exe.engine.field.TextAreaField" reference="101">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="98"></reference>
+                    <reference key="100"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -5594,7 +5721,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="99"></reference>
+                      <reference key="101"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -5602,7 +5729,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="100"></reference>
+                    <reference key="102"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -5619,7 +5746,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="100"></reference>
+                 <reference key="102"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -5630,7 +5757,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="101">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="103">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Partículas subatómicas. Características del átomo."></unicode>
@@ -5691,12 +5818,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="102">
+                  <instance class="exe.engine.field.TextAreaField" reference="104">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="121_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="101"></reference>
+                    <reference key="103"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -5763,7 +5890,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="102"></reference>
+                      <reference key="104"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -5771,7 +5898,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="100"></reference>
+                    <reference key="102"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -5788,164 +5915,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="100"></reference>
-                 <string role="key" value="systemResources"></string>
-                 <list></list>
-                 <string role="key" value="undo"></string>
-                 <bool value="1"></bool>
-                 <string role="key" value="userResources"></string>
-                 <list></list>
-                 <string role="key" value="version"></string>
-                 <int value="0"></int>
-                </dictionary>
-               </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="103">
-                <dictionary>
-                 <string role="key" value="_title"></string>
-                 <unicode value="Tipos de núcleos."></unicode>
-                 <string role="key" value="_attributes"></string>
-                 <list>
-                  <tuple>
-                   <string value="title"></string>
-                   <list>
-                    <string value="Title"></string>
-                    <int value="0"></int>
-                    <int value="0"></int>
-                   </list>
-                  </tuple>
-                  <tuple>
-                   <string value="category"></string>
-                   <list>
-                    <string value="Category"></string>
-                    <int value="0"></int>
-                    <int value="1"></int>
-                   </list>
-                  </tuple>
-                  <tuple>
-                   <string value="css-class"></string>
-                   <list>
-                    <string value="CSS class"></string>
-                    <int value="0"></int>
-                    <int value="2"></int>
-                   </list>
-                  </tuple>
-                  <tuple>
-                   <string value="icon"></string>
-                   <list>
-                    <string value="Icon"></string>
-                    <int value="0"></int>
-                    <int value="3"></int>
-                   </list>
-                  </tuple>
-                 </list>
-                 <string role="key" value="_author"></string>
-                 <string value=""></string>
-                 <string role="key" value="_iDeviceDir"></string>
-                 <string value="text"></string>
-                 <string role="key" value="_purpose"></string>
-                 <string value=""></string>
-                 <string role="key" value="_tip"></string>
-                 <string value=""></string>
-                 <string role="key" value="_typeName"></string>
-                 <unicode value="Text"></unicode>
-                 <string role="key" value="_valid"></string>
-                 <bool value="1"></bool>
-                 <string role="key" value="class_"></string>
-                 <unicode value="text"></unicode>
-                 <string role="key" value="edit"></string>
-                 <bool value="0"></bool>
-                 <string role="key" value="emphasis"></string>
-                 <int value="1"></int>
-                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-                 <int value="1"></int>
-                 <string role="key" value="fields"></string>
-                 <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="104">
-                   <dictionary>
-                    <string role="key" value="_id"></string>
-                    <unicode value="120_2"></unicode>
-                    <string role="key" value="_idevice"></string>
-                    <reference key="103"></reference>
-                    <string role="key" value="_instruc"></string>
-                    <string value=""></string>
-                    <string role="key" value="_name"></string>
-                    <string value=""></string>
-                    <string role="key" value="anchor_names"></string>
-                    <list></list>
-                    <string role="key" value="anchors_linked_from_fields"></string>
-                    <dictionary></dictionary>
-                    <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
-&lt;li style=&quot;list-style-type: none;&quot;&gt;
-&lt;ul&gt;
-&lt;li&gt;A los distintos tipos de núcleos de átomos que podemos observar los denominamos &lt;span style=&quot;color: #ff0000;&quot;&gt;nucledio o núclido.&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Un &lt;span style=&quot;color: #ff0000;&quot;&gt;nucleón&lt;/span&gt; es la suma de protones y neutrones, es decir, las partículas del núcleo.&lt;/li&gt;
-&lt;li&gt;Se van a diferenciar según los valores del número atómico, Z, y el número másico, A.&lt;/li&gt;
-&lt;li&gt;Con esto podemos diferenciar los siguientes &lt;strong&gt;tipos de átomos:&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Isótopos: mismo Z y distinto A. &lt;/strong&gt;&lt;em&gt;Ejemplo: $_{6}^{12}\textrm{C}$, $_{6}^{14}\textrm{C}$&lt;br /&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Isóbaros: distinto Z y mismo A&lt;/strong&gt;. &lt;em&gt;Ejemplo: $_{30}^{60}\textrm{Zn}$, $_{29}^{60}\textrm{Cu}$&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Isótonos: mismo N. &lt;/strong&gt;&lt;em&gt;Ejemplo: $_{26}^{57}\textrm{Fe}$, $_{27}^{58}\textrm{Co}$&lt;/em&gt;&lt;/li&gt;
-&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Isómeros: mismos Z,N y A&lt;/strong&gt;. Sólo cambia su estructura interior debido a una distribución distinta de su energía.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Pentane_isomers.PNG#/media/Archivo:Pentane_isomers.PNG&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/f3/Pentane_isomers.PNG&quot; alt=&quot;Pentane isomers.PNG&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;230&quot; height=&quot;240&quot; /&gt;&lt;/a&gt;Dominio público, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=431002&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Recuerda&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;Un átomo se representa por el símbolo que posee en la tabla periódica así como por sus números atómicos y másico.&lt;/p&gt;
-&lt;p&gt;Su representación sería $_{Z}^{A}\textrm{X}$ :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Z es el número másico o número de protones, que coincide con el de electrones si no está cargado.&lt;/li&gt;
-&lt;li&gt;A es la suma de protones y neutrones, es equivalente a la masa del átomo. $A=Z+N$&lt;/li&gt;
-&lt;li&gt;X es el símbolo del elemento químico tal y como aparece en la tabla periódica.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div&gt;&lt;em&gt;Ejemplo:&lt;/em&gt;&lt;/div&gt;
-&lt;div&gt;$_{6}^{12}\textrm{C}$&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;Atómo de Carbono&lt;/li&gt;
-&lt;li&gt;Tiene 6 protones, y 6 electrones&lt;/li&gt;
-&lt;li&gt;Como A=12 --&amp;gt; A=Z+N --&amp;gt; N=A-Z --&amp;gt; N=6 --&amp;gt; tiene 6 neutrones.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div&gt;&lt;em&gt; &lt;/em&gt;&lt;/div&gt;&lt;/div&gt;"></unicode>
-                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                    <int value="4"></int>
-                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-                    <int value="2"></int>
-                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-                    <int value="3"></int>
-                    <string role="key" value="htmlTag"></string>
-                    <string value="div"></string>
-                    <string role="key" value="images"></string>
-                    <instance class="exe.engine.galleryidevice.GalleryImages">
-                     <dictionary>
-                      <string role="key" value=".listitems"></string>
-                      <list></list>
-                      <string role="key" value="idevice"></string>
-                      <reference key="104"></reference>
-                     </dictionary>
-                    </instance>
-                    <string role="key" value="intlinks_to_anchors"></string>
-                    <dictionary></dictionary>
-                    <string role="key" value="nextImageId"></string>
-                    <int value="0"></int>
-                    <string role="key" value="parentNode"></string>
-                    <reference key="100"></reference>
-                   </dictionary>
-                  </instance>
-                 </list>
-                 <string role="key" value="icon"></string>
-                 <unicode value="udl_rep_vocabulario"></unicode>
-                 <string role="key" value="id"></string>
-                 <unicode value="35"></unicode>
-                 <string role="key" value="ideviceCategory"></string>
-                 <unicode value="Text and Tasks"></unicode>
-                 <string role="key" value="lastIdevice"></string>
-                 <bool value="0"></bool>
-                 <string role="key" value="nextFieldId"></string>
-                 <int value="3"></int>
-                 <string role="key" value="originalicon"></string>
-                 <string value=""></string>
-                 <string role="key" value="parentNode"></string>
-                 <reference key="100"></reference>
+                 <reference key="102"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -5959,7 +5929,7 @@ $(window).load(function(){
                <instance class="exe.engine.jsidevice.JsIdevice" reference="105">
                 <dictionary>
                  <string role="key" value="_title"></string>
-                 <unicode value="Estabilidad de isótopos."></unicode>
+                 <unicode value="Tipos de núcleos."></unicode>
                  <string role="key" value="_attributes"></string>
                  <list>
                   <tuple>
@@ -6033,17 +6003,36 @@ $(window).load(function(){
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
-&lt;li&gt;Hasta la física relativista no podíamos explicar que si sumábamos la masa de las partículas que componen  el núcleo o medimos la masa del núcleo por separado estas no coincidían.&lt;/li&gt;
-&lt;li&gt;Esta diferencia se estudió en relatividad por primera vez y se le llamó &lt;span style=&quot;color: #ff0000;&quot;&gt;defecto de masa($\Delta m$).&lt;br /&gt;&lt;span style=&quot;color: #000000;&quot;&gt;$$\Delta m = \sum m_{nucleones}- \sum m_{núclido} $$&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;Gracias a &lt;span style=&quot;color: #ff0000;&quot;&gt;Einstein&lt;/span&gt; se supo que esta diferencia de masa se convierte en energía en la formación del núcleo atómico. La llamó &lt;span style=&quot;color: #ff0000;&quot;&gt;energía de enlace &quot;la cantidad de energía que se desprende al formarse un núcleo atómico es proporcional al defecto de masa&quot;.&lt;br /&gt;&lt;/span&gt;$$ E_{enlace} = \Delta m \cdot c^2 $$&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;/span&gt;
+&lt;li style=&quot;list-style-type: none;&quot;&gt;
 &lt;ul&gt;
-&lt;li&gt;Para entender mejor esta energía podemos representar la masa de los distintos isótopos o átomos por nucleón, $E_n = \frac{E_{enlace}}{A}$.
-&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Energ%C3%ADa_por_nucle%C3%B3n.png#/media/Archivo:Energ%C3%ADa_por_nucle%C3%B3n.png&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/ba/Energ%C3%ADa_por_nucle%C3%B3n.png&quot; alt=&quot;Energía por nucleón.png&quot; width=&quot;467&quot; height=&quot;301&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot; title=&quot;Creative Commons Attribution-Share Alike 3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=2095422&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;Del H al Fe se produce &lt;strong&gt;fusión nuclear&lt;/strong&gt; y del U al Fe &lt;strong&gt;fisión nuclear.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;A los distintos tipos de núcleos de átomos que podemos observar los denominamos &lt;span style=&quot;color: #ff0000;&quot;&gt;nucledio o núclido.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Un &lt;span style=&quot;color: #ff0000;&quot;&gt;nucleón&lt;/span&gt; es la suma de protones y neutrones, es decir, las partículas del núcleo.&lt;/li&gt;
+&lt;li&gt;Se van a diferenciar según los valores del número atómico, Z, y el número másico, A.&lt;/li&gt;
+&lt;li&gt;Con esto podemos diferenciar los siguientes &lt;strong&gt;tipos de átomos:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Isótopos: mismo Z y distinto A. &lt;/strong&gt;&lt;em&gt;Ejemplo: $_{6}^{12}\textrm{C}$, $_{6}^{14}\textrm{C}$&lt;br /&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Isóbaros: distinto Z y mismo A&lt;/strong&gt;. &lt;em&gt;Ejemplo: $_{30}^{60}\textrm{Zn}$, $_{29}^{60}\textrm{Cu}$&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Isótonos: mismo N. &lt;/strong&gt;&lt;em&gt;Ejemplo: $_{26}^{57}\textrm{Fe}$, $_{27}^{58}\textrm{Co}$&lt;/em&gt;&lt;/li&gt;
+&lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Isómeros: mismos Z,N y A&lt;/strong&gt;. Sólo cambia su estructura interior debido a una distribución distinta de su energía.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Pentane_isomers.PNG#/media/Archivo:Pentane_isomers.PNG&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/f3/Pentane_isomers.PNG&quot; alt=&quot;Pentane isomers.PNG&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;230&quot; height=&quot;240&quot; /&gt;&lt;/a&gt;Dominio público, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=431002&quot;&gt;Wikipedia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;"></unicode>
+&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Recuerda&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;p&gt;Un átomo se representa por el símbolo que posee en la tabla periódica así como por sus números atómicos y másico.&lt;/p&gt;
+&lt;p&gt;Su representación sería $_{Z}^{A}\textrm{X}$ :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Z es el número másico o número de protones, que coincide con el de electrones si no está cargado.&lt;/li&gt;
+&lt;li&gt;A es la suma de protones y neutrones, es equivalente a la masa del átomo. $A=Z+N$&lt;/li&gt;
+&lt;li&gt;X es el símbolo del elemento químico tal y como aparece en la tabla periódica.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;em&gt;Ejemplo:&lt;/em&gt;&lt;/div&gt;
+&lt;div&gt;$_{6}^{12}\textrm{C}$&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Atómo de Carbono&lt;/li&gt;
+&lt;li&gt;Tiene 6 protones, y 6 electrones&lt;/li&gt;
+&lt;li&gt;Como A=12 --&amp;gt; A=Z+N --&amp;gt; N=A-Z --&amp;gt; N=6 --&amp;gt; tiene 6 neutrones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;&lt;em&gt; &lt;/em&gt;&lt;/div&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -6066,14 +6055,14 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="100"></reference>
+                    <reference key="102"></reference>
                    </dictionary>
                   </instance>
                  </list>
                  <string role="key" value="icon"></string>
-                 <unicode value="udl_rep_gramatica"></unicode>
+                 <unicode value="udl_rep_vocabulario"></unicode>
                  <string role="key" value="id"></string>
-                 <unicode value="36"></unicode>
+                 <unicode value="35"></unicode>
                  <string role="key" value="ideviceCategory"></string>
                  <unicode value="Text and Tasks"></unicode>
                  <string role="key" value="lastIdevice"></string>
@@ -6083,7 +6072,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="100"></reference>
+                 <reference key="102"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6097,7 +6086,7 @@ $(window).load(function(){
                <instance class="exe.engine.jsidevice.JsIdevice" reference="107">
                 <dictionary>
                  <string role="key" value="_title"></string>
-                 <unicode value="Fuerzas nucleares"></unicode>
+                 <unicode value="Estabilidad de isótopos."></unicode>
                  <string role="key" value="_attributes"></string>
                  <list>
                   <tuple>
@@ -6170,8 +6159,18 @@ $(window).load(function(){
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Las fuerzas nucleares son interacciones fundamentales que actúan a nivel subatómico, específicamente en los núcleos atómicos. Hay dos tipos principales de fuerzas nucleares:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fuerza Nuclear Fuerte:&lt;/strong&gt; También conocida como interacción nuclear fuerte, esta fuerza es la más poderosa de las cuatro fuerzas fundamentales conocidas. Su función principal es mantener unidos los componentes básicos de la materia para formar partículas más grandes y complejas. En el Modelo Estándar de la física de partículas, los quarks (partículas elementales) se unen mediante fuerzas nucleares fuertes para formar hadrones como protones y neutrones. Además, la fuerza nuclear fuerte también mantiene unidos los quarks dentro de los hadrones.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Fuerza Nuclear Débil:&lt;/strong&gt; Aunque a veces se le llama fuerza nuclear débil, es preferible utilizar simplemente fuerza o interacción débil. A diferencia de la fuerza nuclear fuerte, la fuerza débil no se limita solo a los núcleos atómicos. Puede afectar partículas más allá de los núcleos, como los electrones. Esta fuerza es responsable de ciertos procesos de decaimiento y es crucial para la producción de radiación en el Universo1.&lt;br /&gt;En resumen, la fuerza nuclear fuerte mantiene unidos los componentes del núcleo atómico, mientras que la fuerza nuclear débil interviene en procesos de decaimiento y otras interacciones subatómicas1.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
+&lt;li&gt;Hasta la física relativista no podíamos explicar que si sumábamos la masa de las partículas que componen  el núcleo o medimos la masa del núcleo por separado estas no coincidían.&lt;/li&gt;
+&lt;li&gt;Esta diferencia se estudió en relatividad por primera vez y se le llamó &lt;span style=&quot;color: #ff0000;&quot;&gt;defecto de masa($\Delta m$).&lt;br /&gt;&lt;span style=&quot;color: #000000;&quot;&gt;$$\Delta m = \sum m_{nucleones}- \sum m_{núclido} $$&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Gracias a &lt;span style=&quot;color: #ff0000;&quot;&gt;Einstein&lt;/span&gt; se supo que esta diferencia de masa se convierte en energía en la formación del núcleo atómico. La llamó &lt;span style=&quot;color: #ff0000;&quot;&gt;energía de enlace &quot;la cantidad de energía que se desprende al formarse un núcleo atómico es proporcional al defecto de masa&quot;.&lt;br /&gt;&lt;/span&gt;$$ E_{enlace} = \Delta m \cdot c^2 $$&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;Para entender mejor esta energía podemos representar la masa de los distintos isótopos o átomos por nucleón, $E_n = \frac{E_{enlace}}{A}$.
+&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Energ%C3%ADa_por_nucle%C3%B3n.png#/media/Archivo:Energ%C3%ADa_por_nucle%C3%B3n.png&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/ba/Energ%C3%ADa_por_nucle%C3%B3n.png&quot; alt=&quot;Energía por nucleón.png&quot; width=&quot;467&quot; height=&quot;301&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot; title=&quot;Creative Commons Attribution-Share Alike 3.0&quot;&gt;CC BY-SA 3.0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=2095422&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Del H al Fe se produce &lt;strong&gt;fusión nuclear&lt;/strong&gt; y del U al Fe &lt;strong&gt;fisión nuclear.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -6194,14 +6193,14 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="100"></reference>
+                    <reference key="102"></reference>
                    </dictionary>
                   </instance>
                  </list>
                  <string role="key" value="icon"></string>
-                 <unicode value="udl_eng_rss"></unicode>
+                 <unicode value="udl_rep_gramatica"></unicode>
                  <string role="key" value="id"></string>
-                 <unicode value="50"></unicode>
+                 <unicode value="36"></unicode>
                  <string role="key" value="ideviceCategory"></string>
                  <unicode value="Text and Tasks"></unicode>
                  <string role="key" value="lastIdevice"></string>
@@ -6211,7 +6210,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="100"></reference>
+                 <reference key="102"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6222,37 +6221,10 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-              </list>
-              <string role="key" value="_id"></string>
-              <unicode value="15"></unicode>
-              <string role="key" value="_package"></string>
-              <reference key="4"></reference>
-              <string role="key" value="anchor_fields"></string>
-              <list></list>
-              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exportType"></string>
-              <string value="website"></string>
-              <string role="key" value="last_full_node_path"></string>
-              <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Nucleos%20at%C3%B3micos%20y%20estabilidad%20de%20is%C3%B3topos."></string>
-              <string role="key" value="parent"></string>
-              <reference key="95"></reference>
-              <string role="key" value="top_anchors_linked_from_fields"></string>
-              <list></list>
-              <string role="key" value="children"></string>
-              <list></list>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.node.Node" reference="111">
-             <dictionary>
-              <string role="key" value="_title"></string>
-              <unicode value="Radiactividad."></unicode>
-              <string role="key" value="idevices"></string>
-              <list>
                <instance class="exe.engine.jsidevice.JsIdevice" reference="109">
                 <dictionary>
                  <string role="key" value="_title"></string>
-                 <unicode value="Concepto"></unicode>
+                 <unicode value="Fuerzas nucleares"></unicode>
                  <string role="key" value="_attributes"></string>
                  <list>
                   <tuple>
@@ -6313,9 +6285,164 @@ $(window).load(function(){
                   <instance class="exe.engine.field.TextAreaField" reference="110">
                    <dictionary>
                     <string role="key" value="_id"></string>
-                    <unicode value="121_2"></unicode>
+                    <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
                     <reference key="109"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Las fuerzas nucleares son interacciones fundamentales que actúan a nivel subatómico, específicamente en los núcleos atómicos. Hay dos tipos principales de fuerzas nucleares:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fuerza Nuclear Fuerte:&lt;/strong&gt; También conocida como interacción nuclear fuerte, esta fuerza es la más poderosa de las cuatro fuerzas fundamentales conocidas. Su función principal es mantener unidos los componentes básicos de la materia para formar partículas más grandes y complejas. En el Modelo Estándar de la física de partículas, los quarks (partículas elementales) se unen mediante fuerzas nucleares fuertes para formar hadrones como protones y neutrones. Además, la fuerza nuclear fuerte también mantiene unidos los quarks dentro de los hadrones.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Fuerza Nuclear Débil:&lt;/strong&gt; Aunque a veces se le llama fuerza nuclear débil, es preferible utilizar simplemente fuerza o interacción débil. A diferencia de la fuerza nuclear fuerte, la fuerza débil no se limita solo a los núcleos atómicos. Puede afectar partículas más allá de los núcleos, como los electrones. Esta fuerza es responsable de ciertos procesos de decaimiento y es crucial para la producción de radiación en el Universo1.&lt;br /&gt;En resumen, la fuerza nuclear fuerte mantiene unidos los componentes del núcleo atómico, mientras que la fuerza nuclear débil interviene en procesos de decaimiento y otras interacciones subatómicas1.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="110"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="102"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value="udl_eng_rss"></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="50"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="102"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="_id"></string>
+              <unicode value="15"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="4"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Nucleos%20at%C3%B3micos%20y%20estabilidad%20de%20is%C3%B3topos."></string>
+              <string role="key" value="parent"></string>
+              <reference key="97"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="113">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Radiactividad."></unicode>
+              <string role="key" value="idevices"></string>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="111">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Concepto"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="112">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="121_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="111"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6346,7 +6473,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="110"></reference>
+                      <reference key="112"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6354,7 +6481,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="111"></reference>
+                    <reference key="113"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6371,7 +6498,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="111"></reference>
+                 <reference key="113"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6382,7 +6509,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="112">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="114">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Tipos de radiación natural."></unicode>
@@ -6443,12 +6570,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="113">
+                  <instance class="exe.engine.field.TextAreaField" reference="115">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="123_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="112"></reference>
+                    <reference key="114"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6490,7 +6617,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="113"></reference>
+                      <reference key="115"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6498,7 +6625,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="111"></reference>
+                    <reference key="113"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6515,7 +6642,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="111"></reference>
+                 <reference key="113"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6526,7 +6653,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="114">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="116">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Leyes de Soddy y Fajans."></unicode>
@@ -6587,12 +6714,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="115">
+                  <instance class="exe.engine.field.TextAreaField" reference="117">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="124_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="114"></reference>
+                    <reference key="116"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6632,7 +6759,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="115"></reference>
+                      <reference key="117"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6640,7 +6767,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="111"></reference>
+                    <reference key="113"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6657,7 +6784,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="111"></reference>
+                 <reference key="113"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6668,7 +6795,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="116">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="118">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Simulación"></unicode>
@@ -6729,12 +6856,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="117">
+                  <instance class="exe.engine.field.TextAreaField" reference="119">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="127_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="116"></reference>
+                    <reference key="118"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6759,7 +6886,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="117"></reference>
+                      <reference key="119"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6767,7 +6894,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="111"></reference>
+                    <reference key="113"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6784,7 +6911,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="111"></reference>
+                 <reference key="113"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6809,20 +6936,20 @@ $(window).load(function(){
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Radiactividad."></string>
               <string role="key" value="parent"></string>
-              <reference key="95"></reference>
+              <reference key="97"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="120">
+            <instance class="exe.engine.node.Node" reference="122">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Actividad en una muestra radiactiva. Ley de desintegración."></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="118">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="120">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Actividad radiactiva."></unicode>
@@ -6883,12 +7010,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="119">
+                  <instance class="exe.engine.field.TextAreaField" reference="121">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="118"></reference>
+                    <reference key="120"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6928,7 +7055,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="119"></reference>
+                      <reference key="121"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6936,7 +7063,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="120"></reference>
+                    <reference key="122"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6953,7 +7080,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="120"></reference>
+                 <reference key="122"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6964,7 +7091,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="121">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="123">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Número de núclios en una muestra."></unicode>
@@ -7025,12 +7152,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="122">
+                  <instance class="exe.engine.field.TextAreaField" reference="124">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="121_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="121"></reference>
+                    <reference key="123"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7063,7 +7190,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="122"></reference>
+                      <reference key="124"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7071,7 +7198,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="120"></reference>
+                    <reference key="122"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7088,7 +7215,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="120"></reference>
+                 <reference key="122"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7099,7 +7226,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="123">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="125">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Otras magnitudes asoaciadas a la actividad."></unicode>
@@ -7160,12 +7287,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="124">
+                  <instance class="exe.engine.field.TextAreaField" reference="126">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="122_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="123"></reference>
+                    <reference key="125"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7193,7 +7320,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="124"></reference>
+                      <reference key="126"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7201,7 +7328,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="120"></reference>
+                    <reference key="122"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7218,7 +7345,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="120"></reference>
+                 <reference key="122"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7243,20 +7370,20 @@ $(window).load(function(){
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Actividad%20en%20una%20muestra%20radiactiva.%20Ley%20de%20desintegraci%C3%B3n."></string>
               <string role="key" value="parent"></string>
-              <reference key="95"></reference>
+              <reference key="97"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="127">
+            <instance class="exe.engine.node.Node" reference="129">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Radiactividad artificial. Reacciones de fisión y fusión."></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="125">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="127">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Radiactividad artificial."></unicode>
@@ -7317,12 +7444,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="126">
+                  <instance class="exe.engine.field.TextAreaField" reference="128">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="125"></reference>
+                    <reference key="127"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7356,7 +7483,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="126"></reference>
+                      <reference key="128"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7364,7 +7491,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="127"></reference>
+                    <reference key="129"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7381,7 +7508,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="127"></reference>
+                 <reference key="129"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7392,7 +7519,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="128">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="130">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Reacciones nucleares: fisión y  fusión."></unicode>
@@ -7453,12 +7580,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="129">
+                  <instance class="exe.engine.field.TextAreaField" reference="131">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="128"></reference>
+                    <reference key="130"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7496,7 +7623,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="129"></reference>
+                      <reference key="131"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7504,7 +7631,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="127"></reference>
+                    <reference key="129"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7521,7 +7648,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="127"></reference>
+                 <reference key="129"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7532,195 +7659,10 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="130">
-                <dictionary>
-                 <string role="key" value="_title"></string>
-                 <unicode value="Fisión y Fusión nuclear."></unicode>
-                 <string role="key" value="_attributes"></string>
-                 <list>
-                  <tuple>
-                   <string value="title"></string>
-                   <list>
-                    <string value="Title"></string>
-                    <int value="0"></int>
-                    <int value="0"></int>
-                   </list>
-                  </tuple>
-                  <tuple>
-                   <string value="category"></string>
-                   <list>
-                    <string value="Category"></string>
-                    <int value="0"></int>
-                    <int value="1"></int>
-                   </list>
-                  </tuple>
-                  <tuple>
-                   <string value="css-class"></string>
-                   <list>
-                    <string value="CSS class"></string>
-                    <int value="0"></int>
-                    <int value="2"></int>
-                   </list>
-                  </tuple>
-                  <tuple>
-                   <string value="icon"></string>
-                   <list>
-                    <string value="Icon"></string>
-                    <int value="0"></int>
-                    <int value="3"></int>
-                   </list>
-                  </tuple>
-                 </list>
-                 <string role="key" value="_author"></string>
-                 <string value=""></string>
-                 <string role="key" value="_iDeviceDir"></string>
-                 <string value="text"></string>
-                 <string role="key" value="_purpose"></string>
-                 <string value=""></string>
-                 <string role="key" value="_tip"></string>
-                 <string value=""></string>
-                 <string role="key" value="_typeName"></string>
-                 <unicode value="Text"></unicode>
-                 <string role="key" value="_valid"></string>
-                 <bool value="1"></bool>
-                 <string role="key" value="class_"></string>
-                 <unicode value="text"></unicode>
-                 <string role="key" value="edit"></string>
-                 <bool value="0"></bool>
-                 <string role="key" value="emphasis"></string>
-                 <int value="1"></int>
-                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
-                 <int value="1"></int>
-                 <string role="key" value="fields"></string>
-                 <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="131">
-                   <dictionary>
-                    <string role="key" value="_id"></string>
-                    <unicode value="121_2"></unicode>
-                    <string role="key" value="_idevice"></string>
-                    <reference key="130"></reference>
-                    <string role="key" value="_instruc"></string>
-                    <string value=""></string>
-                    <string role="key" value="_name"></string>
-                    <string value=""></string>
-                    <string role="key" value="anchor_names"></string>
-                    <list></list>
-                    <string role="key" value="anchors_linked_from_fields"></string>
-                    <dictionary></dictionary>
-                    <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
-&lt;li&gt;La &lt;span style=&quot;color: #ff0000;&quot;&gt;fisión nuclear &lt;/span&gt;es aquella en la que un núclido pesado se rompe en fragmentos más pequeños.
-&lt;ul&gt;
-&lt;li&gt;Para provocarla se bombardean los núcleos neutrones lentos. El núcleo absorbe el neutrón y se rompe en dos núcleos más pequeños liberando otros neutrones. Estos neutrones provocan nuevos choques produciéndose una reacción en cadena.
-&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Nuclear_fission.svg#/media/Archivo:Nuclear_fission.svg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/15/Nuclear_fission.svg&quot; alt=&quot;Nuclear fission.svg&quot; width=&quot;309&quot; height=&quot;482&quot; /&gt;&lt;/a&gt;&lt;br /&gt;Dominio público, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=486924&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;La masa de las sustancias obtenidas es &lt;strong&gt;inferior &lt;/strong&gt;a la masa inicial, el resto se ha transformado en energía. $$ \Delta E = \Delta m \cdot c^2$$&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;La&lt;span style=&quot;color: #0000ff;&quot;&gt; fusión nuclear &lt;/span&gt;es el proceso por el que dos núcleos pequeños se unen dando lugar otro de masa mayor.
-&lt;ul&gt;
-&lt;li&gt;Para que se produzca la fusión hace falta una gran cantidad de E para vencer las fuerzas de repulsión nucleares.
-&lt;ul&gt;
-&lt;li&gt;Sólo se han visto en las estrellas. En el Sol por ejemplo se observa la fabricación del Fe.&lt;/li&gt;
-&lt;li&gt;En supernovas se puede apreciar la generación de elementos con Z&amp;gt; 26 (Fe, Co, etc).&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;a data-flickr-embed=&quot;true&quot; data-context=&quot;true&quot; href=&quot;https://www.flickr.com/photos/nrcgov/52827180731&quot; title=&quot;Fusion Reaction&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52827180731_253cf47329_m.jpg&quot; width=&quot;240&quot; height=&quot;175&quot; alt=&quot;Fusion Reaction&quot; /&gt;&lt;/a&gt;
-&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;/li&gt;
-&lt;li&gt;Se está investigando mucho en fisión nuclear dado que es un proceso que liberaría mucha energía. El problema, por ahora insalvable, es que estas reacciones tienen lugar a 10&lt;sup&gt;8&lt;/sup&gt;K; no existe ningún material actualmente que soporte esta temperatura.&lt;br /&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;Confinamiento magnético: &lt;/span&gt;el reactor de fusión trabajaría una temperatura muy alta y la materia estaría en estado de &lt;a href=&quot;https://es.wikipedia.org/wiki/Plasma_(estado_de_la_materia)&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;plasma&lt;/a&gt;.  Mediante campos magnéticos se mantendría este plasma alejado del reactor y podría llevarse a cabo la reacción.&lt;/li&gt;
-&lt;li&gt;&lt;img src=&quot;https://c.pxhere.com/photos/ba/0c/diagram_graphic_drawing_energy_iter_magnetic_confinement_fusion_toroidal_field_coils-1194583.jpg!d&quot; srcset=&quot;https://c.pxhere.com/photos/ba/0c/diagram_graphic_drawing_energy_iter_magnetic_confinement_fusion_toroidal_field_coils-1194583.jpg!d&quot; alt=&quot;espiral, línea, azul, circulo, energía, tierra, dibujo, ilustración, diagrama, simetría, pelota, esfera, gráfico, Organo, forma, física, nuclear, electromagnético, Arte del fractal, ferrito, Iter, Fusión de confinamiento magnético, Toroidal, Bobinas de campo, Laboratorio nacional de la cresta de roble, Fotos gratis In PxHere&quot; /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;Confinamiento inercial: &lt;/span&gt;se usaría la cantidad de movimiento para que las partículas al chocar pudieran vencer las fuerzas repulsivas del núcleo. Aunque este proceso no está prácticamente desarrollado.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Reactores de fusión y de fisión nuclear.&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;ul&gt;
-&lt;li&gt;Los &lt;strong&gt;reactores de fusión nuclear: &lt;/strong&gt;en estas centrales se aprovecha el vapor de la energía desprendida del U-235 y el Pu-239 para llevar agua a ebullición y con el vapor mover unas turbinas que a su vez con un alternador genere electricidad.&lt;br /&gt;&lt;img src=&quot;https://www.foronuclear.org/wp-content/uploads/2020/05/ll-interior-de-una-central-nuclear-833x625.png?x28294&quot; alt=&quot;&quot; width=&quot;833&quot; height=&quot;625&quot; /&gt;&lt;/li&gt;
-&lt;li&gt;Los &lt;strong&gt;reactores de fusión nuclear&lt;/strong&gt;  están en fase experimental todavía y su funcionamiento sería encerrar los núcleos en estado de plasma gracias a un confinamiento magnético y aprovechar la energía de las reacciones para mover un alternador que produzca energía.&lt;br /&gt;&lt;img src=&quot;https://www.foronuclear.org/actualidad/noticias/la-espanola-empresarios-agrupados-internacional-participara-en-el-diseno-del-reactor-nuclear-de-fusion-demo/&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://www.foronuclear.org/wp-content/uploads/2020/06/20200616_Detalle_reactor_fusi%C3%B3n_nuclear_DEMO.png?x28294&quot; alt=&quot;&quot; width=&quot;718&quot; height=&quot;325&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;"></unicode>
-                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                    <int value="4"></int>
-                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
-                    <int value="2"></int>
-                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
-                    <int value="3"></int>
-                    <string role="key" value="htmlTag"></string>
-                    <string value="div"></string>
-                    <string role="key" value="images"></string>
-                    <instance class="exe.engine.galleryidevice.GalleryImages">
-                     <dictionary>
-                      <string role="key" value=".listitems"></string>
-                      <list></list>
-                      <string role="key" value="idevice"></string>
-                      <reference key="131"></reference>
-                     </dictionary>
-                    </instance>
-                    <string role="key" value="intlinks_to_anchors"></string>
-                    <dictionary></dictionary>
-                    <string role="key" value="nextImageId"></string>
-                    <int value="0"></int>
-                    <string role="key" value="parentNode"></string>
-                    <reference key="127"></reference>
-                   </dictionary>
-                  </instance>
-                 </list>
-                 <string role="key" value="icon"></string>
-                 <unicode value="udl_rep_redessemanticas"></unicode>
-                 <string role="key" value="id"></string>
-                 <unicode value="48"></unicode>
-                 <string role="key" value="ideviceCategory"></string>
-                 <unicode value="Text and Tasks"></unicode>
-                 <string role="key" value="lastIdevice"></string>
-                 <bool value="0"></bool>
-                 <string role="key" value="nextFieldId"></string>
-                 <int value="3"></int>
-                 <string role="key" value="originalicon"></string>
-                 <string value=""></string>
-                 <string role="key" value="parentNode"></string>
-                 <reference key="127"></reference>
-                 <string role="key" value="systemResources"></string>
-                 <list></list>
-                 <string role="key" value="undo"></string>
-                 <bool value="1"></bool>
-                 <string role="key" value="userResources"></string>
-                 <list></list>
-                 <string role="key" value="version"></string>
-                 <int value="0"></int>
-                </dictionary>
-               </instance>
-              </list>
-              <string role="key" value="_id"></string>
-              <unicode value="20"></unicode>
-              <string role="key" value="_package"></string>
-              <reference key="4"></reference>
-              <string role="key" value="anchor_fields"></string>
-              <list></list>
-              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
-              <int value="2"></int>
-              <string role="key" value="exportType"></string>
-              <string value="website"></string>
-              <string role="key" value="last_full_node_path"></string>
-              <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Radiactividad%20artificial.%20Reacciones%20de%20fisi%C3%B3n%20y%20fusi%C3%B3n."></string>
-              <string role="key" value="parent"></string>
-              <reference key="95"></reference>
-              <string role="key" value="top_anchors_linked_from_fields"></string>
-              <list></list>
-              <string role="key" value="children"></string>
-              <list></list>
-             </dictionary>
-            </instance>
-            <instance class="exe.engine.node.Node" reference="134">
-             <dictionary>
-              <string role="key" value="_title"></string>
-              <unicode value="Aplicaciones de la Física nuclear."></unicode>
-              <string role="key" value="idevices"></string>
-              <list>
                <instance class="exe.engine.jsidevice.JsIdevice" reference="132">
                 <dictionary>
                  <string role="key" value="_title"></string>
-                 <unicode value="Física nuclear y sociedad."></unicode>
+                 <unicode value="Fisión y Fusión nuclear."></unicode>
                  <string role="key" value="_attributes"></string>
                  <list>
                   <tuple>
@@ -7793,9 +7735,38 @@ $(window).load(function(){
                     <string role="key" value="anchors_linked_from_fields"></string>
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
-                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;strong&gt;Medicina Nuclear:&lt;br /&gt;&lt;/strong&gt;Los isótopos radioactivos se utilizan en diagnósticos y tratamientos médicos. En la medicina nuclear, se administran isótopos radiactivos al paciente y se utilizan detectores especiales para obtener imágenes detalladas del interior del cuerpo. Estas técnicas permiten detectar enfermedades, evaluar la función de órganos y tejidos, y realizar tratamientos dirigidos, como la radioterapia.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:PET_recortada.jpg#/media/File:PET_recortada.jpg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/2/29/PET_recortada.jpg&quot; alt=&quot;PET recortada.jpg&quot; width=&quot;864&quot; height=&quot;680&quot; /&gt;&lt;/a&gt;&lt;br /&gt;PET, &lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/deed.en&quot; title=&quot;Creative Commons Zero, Public Domain Dedication&quot;&gt;CC0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=52076758&quot;&gt;Link&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Datación Radiométrica:&lt;br /&gt;&lt;/strong&gt;Los isótopos radioactivos se utilizan para determinar la edad de objetos antiguos y eventos geológicos. Por ejemplo, el carbono-14 se utiliza para datar materiales orgánicos, como huesos y restos arqueológicos, mientras que el uranio-238 se utiliza para datar rocas y minerales.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Generación de Energía Nuclear:&lt;br /&gt;&lt;/strong&gt;En los reactores nucleares, los isótopos radiactivos se producen mediante la fisión nuclear, que es la división de núcleos atómicos pesados, como el uranio-235 y el plutonio-239. Estos isótopos radiactivos se utilizan en la generación de energía nuclear y en aplicaciones industriales y científicas.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Investigación Científica:&lt;br /&gt;&lt;/strong&gt;Los isótopos radioactivos se emplean en investigaciones científicas para estudiar procesos biológicos, químicos y físicos. Por ejemplo, se pueden rastrear reacciones químicas y seguir el movimiento de sustancias en organismos vivos.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Control de Calidad e Inspección:&lt;br /&gt;&lt;/strong&gt;En la industria, los isótopos radiactivos se utilizan para inspeccionar materiales y detectar defectos en soldaduras, tuberías y estructuras metálicas.&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Agricultura y Seguridad Alimentaria:&lt;br /&gt;&lt;/strong&gt;Los isótopos radioactivos se aplican en la agricultura para estudiar la absorción de nutrientes por las plantas y evaluar la eficiencia de fertilizantes. También se utilizan para rastrear la seguridad alimentaria, detectando contaminantes y seguimiento de alimentos en la cadena de suministro1.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
+&lt;li&gt;La &lt;span style=&quot;color: #ff0000;&quot;&gt;fisión nuclear &lt;/span&gt;es aquella en la que un núclido pesado se rompe en fragmentos más pequeños.
+&lt;ul&gt;
+&lt;li&gt;Para provocarla se bombardean los núcleos neutrones lentos. El núcleo absorbe el neutrón y se rompe en dos núcleos más pequeños liberando otros neutrones. Estos neutrones provocan nuevos choques produciéndose una reacción en cadena.
+&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Nuclear_fission.svg#/media/Archivo:Nuclear_fission.svg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/15/Nuclear_fission.svg&quot; alt=&quot;Nuclear fission.svg&quot; width=&quot;309&quot; height=&quot;482&quot; /&gt;&lt;/a&gt;&lt;br /&gt;Dominio público, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=486924&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;La masa de las sustancias obtenidas es &lt;strong&gt;inferior &lt;/strong&gt;a la masa inicial, el resto se ha transformado en energía. $$ \Delta E = \Delta m \cdot c^2$$&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;La&lt;span style=&quot;color: #0000ff;&quot;&gt; fusión nuclear &lt;/span&gt;es el proceso por el que dos núcleos pequeños se unen dando lugar otro de masa mayor.
+&lt;ul&gt;
+&lt;li&gt;Para que se produzca la fusión hace falta una gran cantidad de E para vencer las fuerzas de repulsión nucleares.
+&lt;ul&gt;
+&lt;li&gt;Sólo se han visto en las estrellas. En el Sol por ejemplo se observa la fabricación del Fe.&lt;/li&gt;
+&lt;li&gt;En supernovas se puede apreciar la generación de elementos con Z&amp;gt; 26 (Fe, Co, etc).&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a data-flickr-embed=&quot;true&quot; data-context=&quot;true&quot; href=&quot;https://www.flickr.com/photos/nrcgov/52827180731&quot; title=&quot;Fusion Reaction&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/65535/52827180731_253cf47329_m.jpg&quot; width=&quot;240&quot; height=&quot;175&quot; alt=&quot;Fusion Reaction&quot; /&gt;&lt;/a&gt;
+&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/li&gt;
+&lt;li&gt;Se está investigando mucho en fisión nuclear dado que es un proceso que liberaría mucha energía. El problema, por ahora insalvable, es que estas reacciones tienen lugar a 10&lt;sup&gt;8&lt;/sup&gt;K; no existe ningún material actualmente que soporte esta temperatura.&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;Confinamiento magnético: &lt;/span&gt;el reactor de fusión trabajaría una temperatura muy alta y la materia estaría en estado de &lt;a href=&quot;https://es.wikipedia.org/wiki/Plasma_(estado_de_la_materia)&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;plasma&lt;/a&gt;.  Mediante campos magnéticos se mantendría este plasma alejado del reactor y podría llevarse a cabo la reacción.&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;https://c.pxhere.com/photos/ba/0c/diagram_graphic_drawing_energy_iter_magnetic_confinement_fusion_toroidal_field_coils-1194583.jpg!d&quot; srcset=&quot;https://c.pxhere.com/photos/ba/0c/diagram_graphic_drawing_energy_iter_magnetic_confinement_fusion_toroidal_field_coils-1194583.jpg!d&quot; alt=&quot;espiral, línea, azul, circulo, energía, tierra, dibujo, ilustración, diagrama, simetría, pelota, esfera, gráfico, Organo, forma, física, nuclear, electromagnético, Arte del fractal, ferrito, Iter, Fusión de confinamiento magnético, Toroidal, Bobinas de campo, Laboratorio nacional de la cresta de roble, Fotos gratis In PxHere&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;color: #0000ff;&quot;&gt;Confinamiento inercial: &lt;/span&gt;se usaría la cantidad de movimiento para que las partículas al chocar pudieran vencer las fuerzas repulsivas del núcleo. Aunque este proceso no está prácticamente desarrollado.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;iDevice_buttons feedback-button js-required&quot;&gt;&lt;input type=&quot;button&quot; class=&quot;feedbackbutton&quot; value=&quot;Reactores de fusión y de fisión nuclear.&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;feedback js-feedback js-hidden&quot;&gt;&lt;ul&gt;
+&lt;li&gt;Los &lt;strong&gt;reactores de fusión nuclear: &lt;/strong&gt;en estas centrales se aprovecha el vapor de la energía desprendida del U-235 y el Pu-239 para llevar agua a ebullición y con el vapor mover unas turbinas que a su vez con un alternador genere electricidad.&lt;br /&gt;&lt;img src=&quot;https://www.foronuclear.org/wp-content/uploads/2020/05/ll-interior-de-una-central-nuclear-833x625.png?x28294&quot; alt=&quot;&quot; width=&quot;833&quot; height=&quot;625&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;Los &lt;strong&gt;reactores de fusión nuclear&lt;/strong&gt;  están en fase experimental todavía y su funcionamiento sería encerrar los núcleos en estado de plasma gracias a un confinamiento magnético y aprovechar la energía de las reacciones para mover un alternador que produzca energía.&lt;br /&gt;&lt;img src=&quot;https://www.foronuclear.org/actualidad/noticias/la-espanola-empresarios-agrupados-internacional-participara-en-el-diseno-del-reactor-nuclear-de-fusion-demo/&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://www.foronuclear.org/wp-content/uploads/2020/06/20200616_Detalle_reactor_fusi%C3%B3n_nuclear_DEMO.png?x28294&quot; alt=&quot;&quot; width=&quot;718&quot; height=&quot;325&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
                     <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -7818,7 +7789,163 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
+                    <reference key="129"></reference>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value="udl_rep_redessemanticas"></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="48"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="129"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="_id"></string>
+              <unicode value="20"></unicode>
+              <string role="key" value="_package"></string>
+              <reference key="4"></reference>
+              <string role="key" value="anchor_fields"></string>
+              <list></list>
+              <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+              <int value="2"></int>
+              <string role="key" value="exportType"></string>
+              <string value="website"></string>
+              <string role="key" value="last_full_node_path"></string>
+              <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Radiactividad%20artificial.%20Reacciones%20de%20fisi%C3%B3n%20y%20fusi%C3%B3n."></string>
+              <string role="key" value="parent"></string>
+              <reference key="97"></reference>
+              <string role="key" value="top_anchors_linked_from_fields"></string>
+              <list></list>
+              <string role="key" value="children"></string>
+              <list></list>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.node.Node" reference="136">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Aplicaciones de la Física nuclear."></unicode>
+              <string role="key" value="idevices"></string>
+              <list>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="134">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="Física nuclear y sociedad."></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="135">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="121_2"></unicode>
+                    <string role="key" value="_idevice"></string>
                     <reference key="134"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="anchors_linked_from_fields"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;strong&gt;Medicina Nuclear:&lt;br /&gt;&lt;/strong&gt;Los isótopos radioactivos se utilizan en diagnósticos y tratamientos médicos. En la medicina nuclear, se administran isótopos radiactivos al paciente y se utilizan detectores especiales para obtener imágenes detalladas del interior del cuerpo. Estas técnicas permiten detectar enfermedades, evaluar la función de órganos y tejidos, y realizar tratamientos dirigidos, como la radioterapia.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://commons.wikimedia.org/wiki/File:PET_recortada.jpg#/media/File:PET_recortada.jpg&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/2/29/PET_recortada.jpg&quot; alt=&quot;PET recortada.jpg&quot; width=&quot;864&quot; height=&quot;680&quot; /&gt;&lt;/a&gt;&lt;br /&gt;PET, &lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/deed.en&quot; title=&quot;Creative Commons Zero, Public Domain Dedication&quot;&gt;CC0&lt;/a&gt;, &lt;a href=&quot;https://commons.wikimedia.org/w/index.php?curid=52076758&quot;&gt;Link&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Datación Radiométrica:&lt;br /&gt;&lt;/strong&gt;Los isótopos radioactivos se utilizan para determinar la edad de objetos antiguos y eventos geológicos. Por ejemplo, el carbono-14 se utiliza para datar materiales orgánicos, como huesos y restos arqueológicos, mientras que el uranio-238 se utiliza para datar rocas y minerales.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Generación de Energía Nuclear:&lt;br /&gt;&lt;/strong&gt;En los reactores nucleares, los isótopos radiactivos se producen mediante la fisión nuclear, que es la división de núcleos atómicos pesados, como el uranio-235 y el plutonio-239. Estos isótopos radiactivos se utilizan en la generación de energía nuclear y en aplicaciones industriales y científicas.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Investigación Científica:&lt;br /&gt;&lt;/strong&gt;Los isótopos radioactivos se emplean en investigaciones científicas para estudiar procesos biológicos, químicos y físicos. Por ejemplo, se pueden rastrear reacciones químicas y seguir el movimiento de sustancias en organismos vivos.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Control de Calidad e Inspección:&lt;br /&gt;&lt;/strong&gt;En la industria, los isótopos radiactivos se utilizan para inspeccionar materiales y detectar defectos en soldaduras, tuberías y estructuras metálicas.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;strong&gt;Agricultura y Seguridad Alimentaria:&lt;br /&gt;&lt;/strong&gt;Los isótopos radioactivos se aplican en la agricultura para estudiar la absorción de nutrientes por las plantas y evaluar la eficiencia de fertilizantes. También se utilizan para rastrear la seguridad alimentaria, detectando contaminantes y seguimiento de alimentos en la cadena de suministro1.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="135"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <reference key="136"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7835,7 +7962,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="134"></reference>
+                 <reference key="136"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7860,20 +7987,20 @@ $(window).load(function(){
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Aplicaciones%20de%20la%20F%C3%ADsica%20nuclear."></string>
               <string role="key" value="parent"></string>
-              <reference key="95"></reference>
+              <reference key="97"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="137">
+            <instance class="exe.engine.node.Node" reference="139">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Problemas de Física Nuclear"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="135">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="137">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Actualizados a pruebas de 2023"></unicode>
@@ -7934,12 +8061,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="136">
+                  <instance class="exe.engine.field.TextAreaField" reference="138">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="128_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="135"></reference>
+                    <reference key="137"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7965,7 +8092,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="136"></reference>
+                      <reference key="138"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7973,7 +8100,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="4"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="137"></reference>
+                    <reference key="139"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7990,7 +8117,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="137"></reference>
+                 <reference key="139"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -8015,7 +8142,7 @@ $(window).load(function(){
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Problemas%20de%20F%C3%ADsica%20Nuclear"></string>
               <string role="key" value="parent"></string>
-              <reference key="95"></reference>
+              <reference key="97"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
@@ -8028,13 +8155,13 @@ $(window).load(function(){
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="140">
+      <instance class="exe.engine.node.Node" reference="142">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Descargas"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="138">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="140">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Imprimir apuntes en PDF"></unicode>
@@ -8095,12 +8222,12 @@ $(window).load(function(){
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="139">
+            <instance class="exe.engine.field.TextAreaField" reference="141">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="127_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="138"></reference>
+              <reference key="140"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -8126,7 +8253,7 @@ $(window).load(function(){
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="139"></reference>
+                <reference key="141"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -8134,7 +8261,7 @@ $(window).load(function(){
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="140"></reference>
+              <reference key="142"></reference>
              </dictionary>
             </instance>
            </list>
@@ -8151,7 +8278,7 @@ $(window).load(function(){
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="140"></reference>
+           <reference key="142"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -8162,7 +8289,7 @@ $(window).load(function(){
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="141">
+         <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="143">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Boletín de problemas de Física Cuántica"></unicode>
@@ -8182,12 +8309,12 @@ $(window).load(function(){
            <int value="2"></int>
            <string role="key" value="fileAttachmentFields"></string>
            <list>
-            <instance class="exe.engine.extendedfieldengine.FileField" reference="142">
+            <instance class="exe.engine.extendedfieldengine.FileField" reference="144">
              <dictionary>
               <string role="key" value="_id"></string>
               <int value="83"></int>
               <string role="key" value="_idevice"></string>
-              <reference key="141"></reference>
+              <reference key="143"></reference>
               <string role="key" value="_instruc"></string>
               <string value="File Field Help"></string>
               <string role="key" value="_name"></string>
@@ -8204,7 +8331,7 @@ $(window).load(function(){
                 <string role="key" value="_id"></string>
                 <int value="84"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="142"></reference>
+                <reference key="144"></reference>
                 <string role="key" value="_instruc"></string>
                 <string value=""></string>
                 <string role="key" value="_name"></string>
@@ -8218,16 +8345,16 @@ $(window).load(function(){
               <string role="key" value="fileInstruc"></string>
               <unicode value="Subir un fichero. Elimine los caracteres especiales del nombre del fichero y la ruta del archivo."></unicode>
               <string role="key" value="fileResource"></string>
-              <instance class="exe.engine.resource.Resource" reference="144">
+              <instance class="exe.engine.resource.Resource" reference="146">
                <dictionary>
                 <string role="key" value="_idevice"></string>
-                <reference key="141"></reference>
+                <reference key="143"></reference>
                 <string role="key" value="_package"></string>
                 <reference key="4"></reference>
                 <string role="key" value="_storageName"></string>
                 <string value="Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmppQHWRs/Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
+                <string value="/tmp/tmpYhvk31/Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="3cff8c082315b929e299fbf99277db55"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8248,12 +8375,12 @@ $(window).load(function(){
            <string role="key" value="id"></string>
            <unicode value="21"></unicode>
            <string role="key" value="introHTML"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="143">
+           <instance class="exe.engine.field.TextAreaField" reference="145">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="82"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="141"></reference>
+             <reference key="143"></reference>
              <string role="key" value="_instruc"></string>
              <string value="Instructions"></string>
              <string role="key" value="_name"></string>
@@ -8278,7 +8405,7 @@ $(window).load(function(){
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="143"></reference>
+               <reference key="145"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -8286,7 +8413,7 @@ $(window).load(function(){
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="140"></reference>
+             <reference key="142"></reference>
             </dictionary>
            </instance>
            <string role="key" value="lastIdevice"></string>
@@ -8296,14 +8423,14 @@ $(window).load(function(){
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="140"></reference>
+           <reference key="142"></reference>
            <string role="key" value="showDesc"></string>
            <instance class="exe.engine.extendedfieldengine.ChoiceField">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="81"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="141"></reference>
+             <reference key="143"></reference>
              <string role="key" value="_instruc"></string>
              <string value="Show Description"></string>
              <string role="key" value="_name"></string>
@@ -8333,13 +8460,13 @@ $(window).load(function(){
            <bool value="0"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="144"></reference>
+            <reference key="146"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="145">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="147">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Download source file"></unicode>
@@ -8400,12 +8527,12 @@ $(window).load(function(){
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="146">
+            <instance class="exe.engine.field.TextAreaField" reference="148">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="125_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="145"></reference>
+              <reference key="147"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -8450,7 +8577,7 @@ $(window).load(function(){
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="146"></reference>
+                <reference key="148"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -8458,7 +8585,7 @@ $(window).load(function(){
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="140"></reference>
+              <reference key="142"></reference>
              </dictionary>
             </instance>
            </list>
@@ -8475,7 +8602,7 @@ $(window).load(function(){
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="140"></reference>
+           <reference key="142"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -8517,21 +8644,21 @@ $(window).load(function(){
    <unicode role="key" value="13"></unicode>
    <reference key="71"></reference>
    <unicode role="key" value="14"></unicode>
-   <reference key="95"></reference>
+   <reference key="97"></reference>
    <unicode role="key" value="15"></unicode>
-   <reference key="100"></reference>
+   <reference key="102"></reference>
    <unicode role="key" value="16"></unicode>
-   <reference key="111"></reference>
+   <reference key="113"></reference>
    <unicode role="key" value="2"></unicode>
    <reference key="47"></reference>
    <unicode role="key" value="20"></unicode>
-   <reference key="127"></reference>
+   <reference key="129"></reference>
    <unicode role="key" value="22"></unicode>
-   <reference key="120"></reference>
+   <reference key="122"></reference>
    <unicode role="key" value="23"></unicode>
-   <reference key="134"></reference>
+   <reference key="136"></reference>
    <unicode role="key" value="24"></unicode>
-   <reference key="137"></reference>
+   <reference key="139"></reference>
    <unicode role="key" value="25"></unicode>
    <reference key="10"></reference>
    <unicode role="key" value="26"></unicode>
@@ -8557,7 +8684,7 @@ $(window).load(function(){
    <unicode role="key" value="36"></unicode>
    <reference key="37"></reference>
    <unicode role="key" value="4"></unicode>
-   <reference key="140"></reference>
+   <reference key="142"></reference>
    <unicode role="key" value="5"></unicode>
    <reference key="54"></reference>
    <unicode role="key" value="6"></unicode>
@@ -9978,7 +10105,7 @@ $(window).load(function(){
    </list>
    <string role="key" value="3cff8c082315b929e299fbf99277db55"></string>
    <list>
-    <reference key="144"></reference>
+    <reference key="146"></reference>
    </list>
    <string role="key" value="529c3af1b50f6e664401d06bbeabd4dc"></string>
    <list>
