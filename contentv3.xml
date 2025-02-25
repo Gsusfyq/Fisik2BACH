@@ -1931,7 +1931,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="639"></int>
+                           <int value="661"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1945,7 +1945,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.47"></unicode>
+                         <unicode value="69_129_2.55"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="38">
                           <dictionary>
@@ -1956,7 +1956,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="material-svubkt6n.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpWHBL2N/material-svubkt6n.png"></string>
+                           <string value="/tmp/tmppPvwLy/material-svubkt6n.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="14a14b3e70a901d5c1a6610eb3462873"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1983,7 +1983,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="642"></int>
+                           <int value="664"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -1997,7 +1997,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.48"></unicode>
+                         <unicode value="69_129_2.56"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="39">
                           <dictionary>
@@ -2008,7 +2008,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="LentePlanaConvergente_(1).png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpWHBL2N/LentePlanaConvergente_(1).png"></string>
+                           <string value="/tmp/tmppPvwLy/LentePlanaConvergente_(1).png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="30da402b5ff172610a5147a7d29107c8"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2035,7 +2035,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="645"></int>
+                           <int value="667"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2049,7 +2049,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.49"></unicode>
+                         <unicode value="69_129_2.57"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="40">
                           <dictionary>
@@ -2060,7 +2060,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="Espejo_Concavo.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpWHBL2N/Espejo_Concavo.png"></string>
+                           <string value="/tmp/tmppPvwLy/Espejo_Concavo.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="aeccd7b71fb21fa439077e456fa0e067"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2087,7 +2087,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="646"></int>
+                           <int value="668"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2101,7 +2101,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="69_129_2.50"></unicode>
+                         <unicode value="69_129_2.58"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="41">
                           <dictionary>
@@ -2112,7 +2112,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="c1evauJulio2024_2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpWHBL2N/c1evauJulio2024_2.png"></string>
+                           <string value="/tmp/tmppPvwLy/c1evauJulio2024_2.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="d95462147d4a1a9f53186ec4449b4fc3"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2141,7 +2141,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="51"></int>
+                    <int value="59"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="37"></reference>
                    </dictionary>
@@ -2627,7 +2627,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="644"></int>
+                           <int value="666"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -2641,7 +2641,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="7_123_2.57"></unicode>
+                         <unicode value="7_123_2.59"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="51">
                           <dictionary>
@@ -2652,7 +2652,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="img0.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpWHBL2N/img0.png"></string>
+                           <string value="/tmp/tmppPvwLy/img0.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="91f51486389ce9c71c1950a23c6c3d7d"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2681,7 +2681,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="58"></int>
+                    <int value="60"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="50"></reference>
                    </dictionary>
@@ -2976,7 +2976,7 @@ MathJax.Hub.Config({
 &lt;ul&gt;
 &lt;li style=&quot;list-style-type: none;&quot;&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;LONGITUD DE ONDA ASOCIADA ($lambda$):&lt;/strong&gt;La longitud de onda que se pueda asociar a cada cuerpo material vendrá dada por la constante de Planck ($h= 6,63 \cdot 10^{-34} J \cdot s$).&lt;br /&gt;$$\boxed{ \lambda = \frac{h}{p}=\frac{h}{mv}}$$&lt;br /&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LONGITUD DE ONDA ASOCIADA ($\lambda$):&lt;/strong&gt;La longitud de onda que se pueda asociar a cada cuerpo material vendrá dada por la constante de Planck ($h= 6,63 \cdot 10^{-34} J \cdot s$).&lt;br /&gt;$$\boxed{ \lambda = \frac{h}{p}=\frac{h}{mv}}$$&lt;br /&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;A la onda asociada a una partícula material se le denomina &lt;strong&gt;onda de materia.&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Este comportamiento pudo ser demostrado con la difracción de electrones con una lámina de Níquel por Davisson y Germer en 1927. Eso les valió el premio nobel.&lt;br /&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6f/Simple-TEM-beam-path.jpg&quot; alt=&quot;&quot; width=&quot;787&quot; height=&quot;653&quot; /&gt;&lt;img src=&quot;https://es.wikipedia.org/wiki/Difracci%C3%B3n_de_electrones#/media/Archivo:Simple-TEM-beam-path.jpg&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://es.wikipedia.org/wiki/Difracci%C3%B3n_de_electrones#/media/Archivo:DifraccionElectronesMET.jpg&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://commons.wikimedia.org/wiki/File:DifraccionElectronesMET.jpg#/media/File:DifraccionElectronesMET.jpg&quot; alt=&quot;&quot; /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;/li&gt;
@@ -3180,7 +3180,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="647"></int>
+                           <int value="669"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3194,7 +3194,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="14_120_2.56"></unicode>
+                         <unicode value="14_120_2.58"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="61">
                           <dictionary>
@@ -3205,7 +3205,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="blackboody.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpWHBL2N/blackboody.png"></string>
+                           <string value="/tmp/tmppPvwLy/blackboody.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="3258db3552ec6d02de9bba743faffd26"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3234,7 +3234,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="57"></int>
+                    <int value="59"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="60"></reference>
                    </dictionary>
@@ -3428,7 +3428,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="640"></int>
+                           <int value="662"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3442,7 +3442,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.222"></unicode>
+                         <unicode value="15_120_2.230"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="65">
                           <dictionary>
@@ -3453,7 +3453,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.3.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpWHBL2N/imagen.3.png"></string>
+                           <string value="/tmp/tmppPvwLy/imagen.3.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="5724b880c48e6d78178eeb0eccd8e6b1"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3480,7 +3480,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="641"></int>
+                           <int value="663"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3494,7 +3494,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.223"></unicode>
+                         <unicode value="15_120_2.231"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="66">
                           <dictionary>
@@ -3505,7 +3505,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.2.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpWHBL2N/imagen.2.png"></string>
+                           <string value="/tmp/tmppPvwLy/imagen.2.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="89dac2902a6a6945e95399be574fb492"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3532,7 +3532,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="643"></int>
+                           <int value="665"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3546,7 +3546,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.224"></unicode>
+                         <unicode value="15_120_2.232"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="67">
                           <dictionary>
@@ -3557,7 +3557,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.1.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpWHBL2N/imagen.1.png"></string>
+                           <string value="/tmp/tmppPvwLy/imagen.1.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="2b76b2743d53819da3e816aa3b6fb419"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3584,7 +3584,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="649"></int>
+                           <int value="671"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -3598,7 +3598,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="15_120_2.225"></unicode>
+                         <unicode value="15_120_2.233"></unicode>
                          <string role="key" value="_imageResource"></string>
                          <instance class="exe.engine.resource.Resource" reference="68">
                           <dictionary>
@@ -3609,7 +3609,7 @@ MathJax.Hub.Config({
                            <string role="key" value="_storageName"></string>
                            <string value="imagen.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpWHBL2N/imagen.png"></string>
+                           <string value="/tmp/tmppPvwLy/imagen.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="529c3af1b50f6e664401d06bbeabd4dc"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3638,7 +3638,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="226"></int>
+                    <int value="234"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="64"></reference>
                    </dictionary>
@@ -3906,7 +3906,11 @@ MathJax.Hub.Config({
                     <dictionary></dictionary>
                     <string role="key" value="content_w_resourcePaths"></string>
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
-&lt;li&gt;Un &lt;strong&gt;espectro&lt;/strong&gt; es un distribución de la radiación de luz en las distintas frecuencias que la componen. En física podemos distinguir tres tipos: &lt;span style=&quot;color: #ff0000;&quot;&gt;continuo, de absorción y de emisión.&lt;br /&gt;&lt;img src=&quot;https://web.ua.es/es/cuantica/documentos/docencia/qce/temas-7-9/s-jc-6.png&quot; alt=&quot;&quot; width=&quot;1365&quot; height=&quot;131&quot; /&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Un &lt;strong&gt;espectro&lt;/strong&gt; es un distribución de la radiación de luz en las distintas frecuencias que la componen. En física podemos distinguir tres tipos: &lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;continuo, de absorción y de emisión.&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;figure class=&quot;exe-figure exe-image position-center license-CC0&quot; style=&quot;width: 1365px;&quot;&gt;&lt;img src=&quot;resources/s-jc-6.png&quot; alt=&quot;Tipos de espectros&quot; title=&quot;Tipos de espectros.&quot; width=&quot;1365&quot; height=&quot;131&quot; /&gt;
+&lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://web.ua.es/es/cuantica/documentos/docencia/qce/temas-7-9/s-jc-6.png&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt;Universidad de Alicante&lt;/a&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/deed.es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons (CC0)&quot;&gt;CC0&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;span style=&quot;color: #ff0000;&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt; &lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;&lt;span style=&quot;color: #ff0000;&quot;&gt;Espectro continuo:&lt;/span&gt;
 &lt;ul&gt;
 &lt;li&gt;Es la descomposición de la luz con la ayuda de un prisma y obtenemos una secuencia de colores sin interrupción.&lt;br /&gt;&lt;img src=&quot;https://media4.obspm.fr/public/VAU/images_page/espectroscopia/images/689-4.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;171&quot; /&gt;&lt;/li&gt;
@@ -3935,7 +3939,60 @@ MathJax.Hub.Config({
                     <instance class="exe.engine.galleryidevice.GalleryImages">
                      <dictionary>
                       <string role="key" value=".listitems"></string>
-                      <list></list>
+                      <list>
+                       <instance class="exe.engine.galleryidevice.GalleryImage">
+                        <dictionary>
+                         <string role="key" value="_caption"></string>
+                         <instance class="exe.engine.field.TextField">
+                          <dictionary>
+                           <string role="key" value="_id"></string>
+                           <int value="672"></int>
+                           <string role="key" value="_idevice"></string>
+                           <none></none>
+                           <string role="key" value="_instruc"></string>
+                           <string value=""></string>
+                           <string role="key" value="_name"></string>
+                           <string value=""></string>
+                           <string role="key" value="content"></string>
+                           <string value=""></string>
+                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                           <int value="4"></int>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_id"></string>
+                         <unicode value="28_122_2.0"></unicode>
+                         <string role="key" value="_imageResource"></string>
+                         <instance class="exe.engine.resource.Resource" reference="74">
+                          <dictionary>
+                           <string role="key" value="_idevice"></string>
+                           <reference key="72"></reference>
+                           <string role="key" value="_package"></string>
+                           <reference key="4"></reference>
+                           <string role="key" value="_storageName"></string>
+                           <string value="s-jc-6.png"></string>
+                           <string role="key" value="_userName"></string>
+                           <string value="/tmp/tmpL6Exp6.eXe/previews/allyourbase/s-jc-6.png"></string>
+                           <string role="key" value="checksum"></string>
+                           <string value="2b32b5459a9246a293ef22211fc61edc"></string>
+                           <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                           <int value="2"></int>
+                           <string role="key" value="warningMsg"></string>
+                           <string value=""></string>
+                          </dictionary>
+                         </instance>
+                         <string role="key" value="_parent"></string>
+                         <reference key="73"></reference>
+                         <string role="key" value="_thumbnailResource"></string>
+                         <none></none>
+                         <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                         <int value="3"></int>
+                         <string role="key" value="makeThumbnail"></string>
+                         <bool value="0"></bool>
+                        </dictionary>
+                       </instance>
+                      </list>
                       <string role="key" value="idevice"></string>
                       <reference key="73"></reference>
                      </dictionary>
@@ -3943,7 +4000,7 @@ MathJax.Hub.Config({
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="0"></int>
+                    <int value="1"></int>
                     <string role="key" value="parentNode"></string>
                     <reference key="71"></reference>
                    </dictionary>
@@ -3968,12 +4025,14 @@ MathJax.Hub.Config({
                  <string role="key" value="undo"></string>
                  <bool value="1"></bool>
                  <string role="key" value="userResources"></string>
-                 <list></list>
+                 <list>
+                  <reference key="74"></reference>
+                 </list>
                  <string role="key" value="version"></string>
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="74">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="75">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Comprobación práctica."></unicode>
@@ -4034,12 +4093,12 @@ MathJax.Hub.Config({
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="75">
+                  <instance class="exe.engine.field.TextAreaField" reference="76">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="123_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="74"></reference>
+                    <reference key="75"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -4075,7 +4134,7 @@ MathJax.Hub.Config({
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="75"></reference>
+                      <reference key="76"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -4111,7 +4170,7 @@ MathJax.Hub.Config({
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="76">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="77">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Series espectrales."></unicode>
@@ -4172,12 +4231,12 @@ MathJax.Hub.Config({
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="77">
+                  <instance class="exe.engine.field.TextAreaField" reference="78">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="76"></reference>
+                    <reference key="77"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -4214,7 +4273,7 @@ MathJax.Hub.Config({
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="77"></reference>
+                      <reference key="78"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -4271,13 +4330,13 @@ MathJax.Hub.Config({
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="80">
+            <instance class="exe.engine.node.Node" reference="81">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Principio de incertidumbre"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="78">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="79">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Introducción."></unicode>
@@ -4338,12 +4397,12 @@ MathJax.Hub.Config({
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="79">
+                  <instance class="exe.engine.field.TextAreaField" reference="80">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="127_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="78"></reference>
+                    <reference key="79"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -4369,7 +4428,7 @@ MathJax.Hub.Config({
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="79"></reference>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -4377,7 +4436,7 @@ MathJax.Hub.Config({
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="80"></reference>
+                    <reference key="81"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -4394,7 +4453,7 @@ MathJax.Hub.Config({
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="80"></reference>
+                 <reference key="81"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -4405,7 +4464,7 @@ MathJax.Hub.Config({
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="81">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="82">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Experimentación"></unicode>
@@ -4466,12 +4525,12 @@ MathJax.Hub.Config({
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="82">
+                  <instance class="exe.engine.field.TextAreaField" reference="83">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="128_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="81"></reference>
+                    <reference key="82"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -4502,7 +4561,7 @@ MathJax.Hub.Config({
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="82"></reference>
+                      <reference key="83"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -4510,7 +4569,7 @@ MathJax.Hub.Config({
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="80"></reference>
+                    <reference key="81"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -4527,7 +4586,7 @@ MathJax.Hub.Config({
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="80"></reference>
+                 <reference key="81"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -4538,7 +4597,7 @@ MathJax.Hub.Config({
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="83">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="84">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Principio de incertidumbre."></unicode>
@@ -4599,12 +4658,12 @@ MathJax.Hub.Config({
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="84">
+                  <instance class="exe.engine.field.TextAreaField" reference="85">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="129_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="83"></reference>
+                    <reference key="84"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -4632,7 +4691,7 @@ MathJax.Hub.Config({
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="84"></reference>
+                      <reference key="85"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -4640,7 +4699,7 @@ MathJax.Hub.Config({
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="80"></reference>
+                    <reference key="81"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -4657,7 +4716,7 @@ MathJax.Hub.Config({
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="80"></reference>
+                 <reference key="81"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -4668,7 +4727,7 @@ MathJax.Hub.Config({
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="85">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="86">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Consecuencias"></unicode>
@@ -4729,12 +4788,12 @@ MathJax.Hub.Config({
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="86">
+                  <instance class="exe.engine.field.TextAreaField" reference="87">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="127_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="85"></reference>
+                    <reference key="86"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -4768,7 +4827,7 @@ MathJax.Hub.Config({
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="86"></reference>
+                      <reference key="87"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -4776,7 +4835,7 @@ MathJax.Hub.Config({
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="80"></reference>
+                    <reference key="81"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -4793,7 +4852,7 @@ MathJax.Hub.Config({
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="80"></reference>
+                 <reference key="81"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -4804,7 +4863,7 @@ MathJax.Hub.Config({
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="87">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="88">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Ejemplo de problema."></unicode>
@@ -4865,12 +4924,12 @@ MathJax.Hub.Config({
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="88">
+                  <instance class="exe.engine.field.TextAreaField" reference="89">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="127_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="87"></reference>
+                    <reference key="88"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -4900,7 +4959,7 @@ MathJax.Hub.Config({
                          <instance class="exe.engine.field.TextField">
                           <dictionary>
                            <string role="key" value="_id"></string>
-                           <int value="648"></int>
+                           <int value="670"></int>
                            <string role="key" value="_idevice"></string>
                            <none></none>
                            <string role="key" value="_instruc"></string>
@@ -4914,18 +4973,18 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_id"></string>
-                         <unicode value="52_127_2.22"></unicode>
+                         <unicode value="52_127_2.24"></unicode>
                          <string role="key" value="_imageResource"></string>
-                         <instance class="exe.engine.resource.Resource" reference="89">
+                         <instance class="exe.engine.resource.Resource" reference="90">
                           <dictionary>
                            <string role="key" value="_idevice"></string>
-                           <reference key="87"></reference>
+                           <reference key="88"></reference>
                            <string role="key" value="_package"></string>
                            <reference key="4"></reference>
                            <string role="key" value="_storageName"></string>
                            <string value="solucion.png"></string>
                            <string role="key" value="_userName"></string>
-                           <string value="/tmp/tmpWHBL2N/solucion.png"></string>
+                           <string value="/tmp/tmppPvwLy/solucion.png"></string>
                            <string role="key" value="checksum"></string>
                            <string value="5945ea5835669acb65f33c39bbb56536"></string>
                            <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4937,7 +4996,7 @@ MathJax.Hub.Config({
                           </dictionary>
                          </instance>
                          <string role="key" value="_parent"></string>
-                         <reference key="88"></reference>
+                         <reference key="89"></reference>
                          <string role="key" value="_thumbnailResource"></string>
                          <none></none>
                          <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -4948,15 +5007,15 @@ MathJax.Hub.Config({
                        </instance>
                       </list>
                       <string role="key" value="idevice"></string>
-                      <reference key="88"></reference>
+                      <reference key="89"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
                     <dictionary></dictionary>
                     <string role="key" value="nextImageId"></string>
-                    <int value="23"></int>
+                    <int value="25"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="80"></reference>
+                    <reference key="81"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -4973,14 +5032,14 @@ MathJax.Hub.Config({
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="80"></reference>
+                 <reference key="81"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
                  <bool value="1"></bool>
                  <string role="key" value="userResources"></string>
                  <list>
-                  <reference key="89"></reference>
+                  <reference key="90"></reference>
                  </list>
                  <string role="key" value="version"></string>
                  <int value="0"></int>
@@ -5007,13 +5066,13 @@ MathJax.Hub.Config({
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="92">
+            <instance class="exe.engine.node.Node" reference="93">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Problemas de Cuántica"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="90">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="91">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Problema seleccionados de  EVAU actualizados a 2024. (Cuántica)"></unicode>
@@ -5074,12 +5133,12 @@ MathJax.Hub.Config({
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="91">
+                  <instance class="exe.engine.field.TextAreaField" reference="92">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="127_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="90"></reference>
+                    <reference key="91"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -5128,7 +5187,7 @@ MathJax.Hub.Config({
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="91"></reference>
+                      <reference key="92"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -5136,7 +5195,7 @@ MathJax.Hub.Config({
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="92"></reference>
+                    <reference key="93"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -5153,7 +5212,7 @@ MathJax.Hub.Config({
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="92"></reference>
+                 <reference key="93"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -5164,7 +5223,7 @@ MathJax.Hub.Config({
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="93">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="94">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value=""></unicode>
@@ -5225,12 +5284,12 @@ MathJax.Hub.Config({
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="94">
+                  <instance class="exe.engine.field.TextAreaField" reference="95">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="127_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="93"></reference>
+                    <reference key="94"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -5255,7 +5314,7 @@ MathJax.Hub.Config({
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="94"></reference>
+                      <reference key="95"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -5263,7 +5322,7 @@ MathJax.Hub.Config({
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="92"></reference>
+                    <reference key="93"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -5280,7 +5339,7 @@ MathJax.Hub.Config({
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="92"></reference>
+                 <reference key="93"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -5315,13 +5374,13 @@ MathJax.Hub.Config({
            </list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="97">
+         <instance class="exe.engine.node.Node" reference="98">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Física Nuclear"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="95">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="96">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="¿Qué es la Física Nuclear?"></unicode>
@@ -5382,12 +5441,12 @@ MathJax.Hub.Config({
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="96">
+               <instance class="exe.engine.field.TextAreaField" reference="97">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="120_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="95"></reference>
+                 <reference key="96"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5413,7 +5472,7 @@ MathJax.Hub.Config({
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="96"></reference>
+                   <reference key="97"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5421,7 +5480,7 @@ MathJax.Hub.Config({
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="97"></reference>
+                 <reference key="98"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5438,7 +5497,7 @@ MathJax.Hub.Config({
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="97"></reference>
+              <reference key="98"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5449,7 +5508,7 @@ MathJax.Hub.Config({
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="98">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="99">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Índice."></unicode>
@@ -5510,12 +5569,12 @@ MathJax.Hub.Config({
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="99">
+               <instance class="exe.engine.field.TextAreaField" reference="100">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="121_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="98"></reference>
+                 <reference key="99"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5546,7 +5605,7 @@ MathJax.Hub.Config({
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="99"></reference>
+                   <reference key="100"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5554,7 +5613,7 @@ MathJax.Hub.Config({
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="97"></reference>
+                 <reference key="98"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5571,7 +5630,7 @@ MathJax.Hub.Config({
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="97"></reference>
+              <reference key="98"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5601,13 +5660,13 @@ MathJax.Hub.Config({
            <list></list>
            <string role="key" value="children"></string>
            <list>
-            <instance class="exe.engine.node.Node" reference="102">
+            <instance class="exe.engine.node.Node" reference="103">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Nucleos atómicos y estabilidad de isótopos."></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="100">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="101">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Modelos atómicos."></unicode>
@@ -5668,12 +5727,12 @@ MathJax.Hub.Config({
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="101">
+                  <instance class="exe.engine.field.TextAreaField" reference="102">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="100"></reference>
+                    <reference key="101"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -5721,7 +5780,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="101"></reference>
+                      <reference key="102"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -5729,7 +5788,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="102"></reference>
+                    <reference key="103"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -5746,7 +5805,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="102"></reference>
+                 <reference key="103"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -5757,7 +5816,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="103">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="104">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Partículas subatómicas. Características del átomo."></unicode>
@@ -5818,12 +5877,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="104">
+                  <instance class="exe.engine.field.TextAreaField" reference="105">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="121_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="103"></reference>
+                    <reference key="104"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -5890,7 +5949,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="104"></reference>
+                      <reference key="105"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -5898,7 +5957,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="102"></reference>
+                    <reference key="103"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -5915,7 +5974,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="102"></reference>
+                 <reference key="103"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -5926,7 +5985,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="105">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="106">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Tipos de núcleos."></unicode>
@@ -5987,12 +6046,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="106">
+                  <instance class="exe.engine.field.TextAreaField" reference="107">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="105"></reference>
+                    <reference key="106"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6047,7 +6106,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="106"></reference>
+                      <reference key="107"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6055,7 +6114,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="102"></reference>
+                    <reference key="103"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6072,7 +6131,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="102"></reference>
+                 <reference key="103"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6083,7 +6142,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="107">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="108">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Estabilidad de isótopos."></unicode>
@@ -6144,12 +6203,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="108">
+                  <instance class="exe.engine.field.TextAreaField" reference="109">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="107"></reference>
+                    <reference key="108"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6185,7 +6244,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="108"></reference>
+                      <reference key="109"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6193,7 +6252,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="102"></reference>
+                    <reference key="103"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6210,7 +6269,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="102"></reference>
+                 <reference key="103"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6221,7 +6280,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="109">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="110">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Fuerzas nucleares"></unicode>
@@ -6282,12 +6341,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="110">
+                  <instance class="exe.engine.field.TextAreaField" reference="111">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="109"></reference>
+                    <reference key="110"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6313,7 +6372,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="110"></reference>
+                      <reference key="111"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6321,7 +6380,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="102"></reference>
+                    <reference key="103"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6338,7 +6397,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="102"></reference>
+                 <reference key="103"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6363,20 +6422,20 @@ $(window).load(function(){
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Nucleos%20at%C3%B3micos%20y%20estabilidad%20de%20is%C3%B3topos."></string>
               <string role="key" value="parent"></string>
-              <reference key="97"></reference>
+              <reference key="98"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="113">
+            <instance class="exe.engine.node.Node" reference="114">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Radiactividad."></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="111">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="112">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Concepto"></unicode>
@@ -6437,12 +6496,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="112">
+                  <instance class="exe.engine.field.TextAreaField" reference="113">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="121_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="111"></reference>
+                    <reference key="112"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6473,7 +6532,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="112"></reference>
+                      <reference key="113"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6481,7 +6540,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="113"></reference>
+                    <reference key="114"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6498,7 +6557,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="113"></reference>
+                 <reference key="114"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6509,7 +6568,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="114">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="115">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Tipos de radiación natural."></unicode>
@@ -6570,12 +6629,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="115">
+                  <instance class="exe.engine.field.TextAreaField" reference="116">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="123_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="114"></reference>
+                    <reference key="115"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6617,7 +6676,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="115"></reference>
+                      <reference key="116"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6625,7 +6684,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="113"></reference>
+                    <reference key="114"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6642,7 +6701,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="113"></reference>
+                 <reference key="114"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6653,7 +6712,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="116">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="117">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Leyes de Soddy y Fajans."></unicode>
@@ -6714,12 +6773,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="117">
+                  <instance class="exe.engine.field.TextAreaField" reference="118">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="124_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="116"></reference>
+                    <reference key="117"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6759,7 +6818,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="117"></reference>
+                      <reference key="118"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6767,7 +6826,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="113"></reference>
+                    <reference key="114"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6784,7 +6843,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="113"></reference>
+                 <reference key="114"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6795,7 +6854,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="118">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="119">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Simulación"></unicode>
@@ -6856,12 +6915,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="119">
+                  <instance class="exe.engine.field.TextAreaField" reference="120">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="127_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="118"></reference>
+                    <reference key="119"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -6886,7 +6945,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="119"></reference>
+                      <reference key="120"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -6894,7 +6953,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="113"></reference>
+                    <reference key="114"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -6911,7 +6970,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="113"></reference>
+                 <reference key="114"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -6936,20 +6995,20 @@ $(window).load(function(){
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Radiactividad."></string>
               <string role="key" value="parent"></string>
-              <reference key="97"></reference>
+              <reference key="98"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="122">
+            <instance class="exe.engine.node.Node" reference="123">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Actividad en una muestra radiactiva. Ley de desintegración."></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="120">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="121">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Actividad radiactiva."></unicode>
@@ -7010,12 +7069,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="121">
+                  <instance class="exe.engine.field.TextAreaField" reference="122">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="120"></reference>
+                    <reference key="121"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7055,7 +7114,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="121"></reference>
+                      <reference key="122"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7063,7 +7122,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="122"></reference>
+                    <reference key="123"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7080,7 +7139,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="122"></reference>
+                 <reference key="123"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7091,7 +7150,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="123">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="124">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Número de núclios en una muestra."></unicode>
@@ -7152,12 +7211,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="124">
+                  <instance class="exe.engine.field.TextAreaField" reference="125">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="121_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="123"></reference>
+                    <reference key="124"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7190,7 +7249,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="124"></reference>
+                      <reference key="125"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7198,7 +7257,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="122"></reference>
+                    <reference key="123"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7215,7 +7274,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="122"></reference>
+                 <reference key="123"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7226,7 +7285,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="125">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="126">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Otras magnitudes asoaciadas a la actividad."></unicode>
@@ -7287,12 +7346,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="126">
+                  <instance class="exe.engine.field.TextAreaField" reference="127">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="122_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="125"></reference>
+                    <reference key="126"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7320,7 +7379,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="126"></reference>
+                      <reference key="127"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7328,7 +7387,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="122"></reference>
+                    <reference key="123"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7345,7 +7404,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="122"></reference>
+                 <reference key="123"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7370,20 +7429,20 @@ $(window).load(function(){
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Actividad%20en%20una%20muestra%20radiactiva.%20Ley%20de%20desintegraci%C3%B3n."></string>
               <string role="key" value="parent"></string>
-              <reference key="97"></reference>
+              <reference key="98"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="129">
+            <instance class="exe.engine.node.Node" reference="130">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Radiactividad artificial. Reacciones de fisión y fusión."></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="127">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="128">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Radiactividad artificial."></unicode>
@@ -7444,12 +7503,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="128">
+                  <instance class="exe.engine.field.TextAreaField" reference="129">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="127"></reference>
+                    <reference key="128"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7483,7 +7542,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="128"></reference>
+                      <reference key="129"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7491,7 +7550,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="129"></reference>
+                    <reference key="130"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7508,7 +7567,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="129"></reference>
+                 <reference key="130"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7519,7 +7578,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="130">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="131">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Reacciones nucleares: fisión y  fusión."></unicode>
@@ -7580,12 +7639,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="131">
+                  <instance class="exe.engine.field.TextAreaField" reference="132">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="120_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="130"></reference>
+                    <reference key="131"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7623,7 +7682,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="131"></reference>
+                      <reference key="132"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7631,7 +7690,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="129"></reference>
+                    <reference key="130"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7648,7 +7707,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="129"></reference>
+                 <reference key="130"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7659,7 +7718,7 @@ $(window).load(function(){
                  <int value="0"></int>
                 </dictionary>
                </instance>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="132">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="133">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Fisión y Fusión nuclear."></unicode>
@@ -7720,12 +7779,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="133">
+                  <instance class="exe.engine.field.TextAreaField" reference="134">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="121_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="132"></reference>
+                    <reference key="133"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7781,7 +7840,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="133"></reference>
+                      <reference key="134"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7789,7 +7848,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="129"></reference>
+                    <reference key="130"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7806,7 +7865,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="129"></reference>
+                 <reference key="130"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7831,20 +7890,20 @@ $(window).load(function(){
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Radiactividad%20artificial.%20Reacciones%20de%20fisi%C3%B3n%20y%20fusi%C3%B3n."></string>
               <string role="key" value="parent"></string>
-              <reference key="97"></reference>
+              <reference key="98"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="136">
+            <instance class="exe.engine.node.Node" reference="137">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Aplicaciones de la Física nuclear."></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="134">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="135">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Física nuclear y sociedad."></unicode>
@@ -7905,12 +7964,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="135">
+                  <instance class="exe.engine.field.TextAreaField" reference="136">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="121_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="134"></reference>
+                    <reference key="135"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -7937,7 +7996,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="135"></reference>
+                      <reference key="136"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -7945,7 +8004,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="0"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="136"></reference>
+                    <reference key="137"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -7962,7 +8021,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="136"></reference>
+                 <reference key="137"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -7987,20 +8046,20 @@ $(window).load(function(){
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Aplicaciones%20de%20la%20F%C3%ADsica%20nuclear."></string>
               <string role="key" value="parent"></string>
-              <reference key="97"></reference>
+              <reference key="98"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
               <list></list>
              </dictionary>
             </instance>
-            <instance class="exe.engine.node.Node" reference="139">
+            <instance class="exe.engine.node.Node" reference="140">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Problemas de Física Nuclear"></unicode>
               <string role="key" value="idevices"></string>
               <list>
-               <instance class="exe.engine.jsidevice.JsIdevice" reference="137">
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="138">
                 <dictionary>
                  <string role="key" value="_title"></string>
                  <unicode value="Actualizados a pruebas de 2023"></unicode>
@@ -8061,12 +8120,12 @@ $(window).load(function(){
                  <int value="1"></int>
                  <string role="key" value="fields"></string>
                  <list>
-                  <instance class="exe.engine.field.TextAreaField" reference="138">
+                  <instance class="exe.engine.field.TextAreaField" reference="139">
                    <dictionary>
                     <string role="key" value="_id"></string>
                     <unicode value="128_2"></unicode>
                     <string role="key" value="_idevice"></string>
-                    <reference key="137"></reference>
+                    <reference key="138"></reference>
                     <string role="key" value="_instruc"></string>
                     <string value=""></string>
                     <string role="key" value="_name"></string>
@@ -8092,7 +8151,7 @@ $(window).load(function(){
                       <string role="key" value=".listitems"></string>
                       <list></list>
                       <string role="key" value="idevice"></string>
-                      <reference key="138"></reference>
+                      <reference key="139"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="intlinks_to_anchors"></string>
@@ -8100,7 +8159,7 @@ $(window).load(function(){
                     <string role="key" value="nextImageId"></string>
                     <int value="4"></int>
                     <string role="key" value="parentNode"></string>
-                    <reference key="139"></reference>
+                    <reference key="140"></reference>
                    </dictionary>
                   </instance>
                  </list>
@@ -8117,7 +8176,7 @@ $(window).load(function(){
                  <string role="key" value="originalicon"></string>
                  <string value=""></string>
                  <string role="key" value="parentNode"></string>
-                 <reference key="139"></reference>
+                 <reference key="140"></reference>
                  <string role="key" value="systemResources"></string>
                  <list></list>
                  <string role="key" value="undo"></string>
@@ -8142,7 +8201,7 @@ $(window).load(function(){
               <string role="key" value="last_full_node_path"></string>
               <string value="exe-node:F%C3%ADsica%202%C2%BA%20Bachillerato:Bloque%20D%3A%20F%C3%ADsica%20del%20Siglo%20XX:F%C3%ADsica%20Nuclear:Problemas%20de%20F%C3%ADsica%20Nuclear"></string>
               <string role="key" value="parent"></string>
-              <reference key="97"></reference>
+              <reference key="98"></reference>
               <string role="key" value="top_anchors_linked_from_fields"></string>
               <list></list>
               <string role="key" value="children"></string>
@@ -8155,13 +8214,13 @@ $(window).load(function(){
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="142">
+      <instance class="exe.engine.node.Node" reference="143">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Descargas"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="140">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="141">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Imprimir apuntes en PDF"></unicode>
@@ -8222,12 +8281,12 @@ $(window).load(function(){
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="141">
+            <instance class="exe.engine.field.TextAreaField" reference="142">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="127_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="140"></reference>
+              <reference key="141"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -8253,7 +8312,7 @@ $(window).load(function(){
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="141"></reference>
+                <reference key="142"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -8261,7 +8320,7 @@ $(window).load(function(){
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="142"></reference>
+              <reference key="143"></reference>
              </dictionary>
             </instance>
            </list>
@@ -8278,7 +8337,7 @@ $(window).load(function(){
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="142"></reference>
+           <reference key="143"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -8289,7 +8348,7 @@ $(window).load(function(){
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="143">
+         <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="144">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Boletín de problemas de Física Cuántica"></unicode>
@@ -8309,12 +8368,12 @@ $(window).load(function(){
            <int value="2"></int>
            <string role="key" value="fileAttachmentFields"></string>
            <list>
-            <instance class="exe.engine.extendedfieldengine.FileField" reference="144">
+            <instance class="exe.engine.extendedfieldengine.FileField" reference="145">
              <dictionary>
               <string role="key" value="_id"></string>
               <int value="83"></int>
               <string role="key" value="_idevice"></string>
-              <reference key="143"></reference>
+              <reference key="144"></reference>
               <string role="key" value="_instruc"></string>
               <string value="File Field Help"></string>
               <string role="key" value="_name"></string>
@@ -8331,7 +8390,7 @@ $(window).load(function(){
                 <string role="key" value="_id"></string>
                 <int value="84"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="144"></reference>
+                <reference key="145"></reference>
                 <string role="key" value="_instruc"></string>
                 <string value=""></string>
                 <string role="key" value="_name"></string>
@@ -8345,16 +8404,16 @@ $(window).load(function(){
               <string role="key" value="fileInstruc"></string>
               <unicode value="Subir un fichero. Elimine los caracteres especiales del nombre del fichero y la ruta del archivo."></unicode>
               <string role="key" value="fileResource"></string>
-              <instance class="exe.engine.resource.Resource" reference="146">
+              <instance class="exe.engine.resource.Resource" reference="147">
                <dictionary>
                 <string role="key" value="_idevice"></string>
-                <reference key="143"></reference>
+                <reference key="144"></reference>
                 <string role="key" value="_package"></string>
                 <reference key="4"></reference>
                 <string role="key" value="_storageName"></string>
                 <string value="Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="/tmp/tmpWHBL2N/Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
+                <string value="/tmp/tmppPvwLy/Boletin de problemas _ Fisica 2o Bachillerato_Cuantica.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="3cff8c082315b929e299fbf99277db55"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -8375,12 +8434,12 @@ $(window).load(function(){
            <string role="key" value="id"></string>
            <unicode value="21"></unicode>
            <string role="key" value="introHTML"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="145">
+           <instance class="exe.engine.field.TextAreaField" reference="146">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="82"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="143"></reference>
+             <reference key="144"></reference>
              <string role="key" value="_instruc"></string>
              <string value="Instructions"></string>
              <string role="key" value="_name"></string>
@@ -8405,7 +8464,7 @@ $(window).load(function(){
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="145"></reference>
+               <reference key="146"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -8413,7 +8472,7 @@ $(window).load(function(){
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="142"></reference>
+             <reference key="143"></reference>
             </dictionary>
            </instance>
            <string role="key" value="lastIdevice"></string>
@@ -8423,14 +8482,14 @@ $(window).load(function(){
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="142"></reference>
+           <reference key="143"></reference>
            <string role="key" value="showDesc"></string>
            <instance class="exe.engine.extendedfieldengine.ChoiceField">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="81"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="143"></reference>
+             <reference key="144"></reference>
              <string role="key" value="_instruc"></string>
              <string value="Show Description"></string>
              <string role="key" value="_name"></string>
@@ -8460,13 +8519,13 @@ $(window).load(function(){
            <bool value="0"></bool>
            <string role="key" value="userResources"></string>
            <list>
-            <reference key="146"></reference>
+            <reference key="147"></reference>
            </list>
            <string role="key" value="version"></string>
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="147">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="148">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Download source file"></unicode>
@@ -8527,12 +8586,12 @@ $(window).load(function(){
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="148">
+            <instance class="exe.engine.field.TextAreaField" reference="149">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="125_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="147"></reference>
+              <reference key="148"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -8577,7 +8636,7 @@ $(window).load(function(){
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="148"></reference>
+                <reference key="149"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -8585,7 +8644,7 @@ $(window).load(function(){
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="142"></reference>
+              <reference key="143"></reference>
              </dictionary>
             </instance>
            </list>
@@ -8602,7 +8661,7 @@ $(window).load(function(){
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="142"></reference>
+           <reference key="143"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -8640,25 +8699,25 @@ $(window).load(function(){
    <unicode role="key" value="1"></unicode>
    <reference key="44"></reference>
    <unicode role="key" value="11"></unicode>
-   <reference key="92"></reference>
+   <reference key="93"></reference>
    <unicode role="key" value="13"></unicode>
    <reference key="71"></reference>
    <unicode role="key" value="14"></unicode>
-   <reference key="97"></reference>
+   <reference key="98"></reference>
    <unicode role="key" value="15"></unicode>
-   <reference key="102"></reference>
+   <reference key="103"></reference>
    <unicode role="key" value="16"></unicode>
-   <reference key="113"></reference>
+   <reference key="114"></reference>
    <unicode role="key" value="2"></unicode>
    <reference key="47"></reference>
    <unicode role="key" value="20"></unicode>
-   <reference key="129"></reference>
+   <reference key="130"></reference>
    <unicode role="key" value="22"></unicode>
-   <reference key="122"></reference>
+   <reference key="123"></reference>
    <unicode role="key" value="23"></unicode>
-   <reference key="136"></reference>
+   <reference key="137"></reference>
    <unicode role="key" value="24"></unicode>
-   <reference key="139"></reference>
+   <reference key="140"></reference>
    <unicode role="key" value="25"></unicode>
    <reference key="10"></reference>
    <unicode role="key" value="26"></unicode>
@@ -8684,7 +8743,7 @@ $(window).load(function(){
    <unicode role="key" value="36"></unicode>
    <reference key="37"></reference>
    <unicode role="key" value="4"></unicode>
-   <reference key="142"></reference>
+   <reference key="143"></reference>
    <unicode role="key" value="5"></unicode>
    <reference key="54"></reference>
    <unicode role="key" value="6"></unicode>
@@ -8694,7 +8753,7 @@ $(window).load(function(){
    <unicode role="key" value="8"></unicode>
    <reference key="64"></reference>
    <unicode role="key" value="9"></unicode>
-   <reference key="80"></reference>
+   <reference key="81"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value="Conocer la física desde la edad media hasta el siglo XX."></unicode>
@@ -8705,7 +8764,7 @@ $(window).load(function(){
   <string role="key" value="backgroundImgTile"></string>
   <bool value="1"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="92"></reference>
+  <reference key="71"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -10091,6 +10150,10 @@ $(window).load(function(){
    <list>
     <reference key="38"></reference>
    </list>
+   <string role="key" value="2b32b5459a9246a293ef22211fc61edc"></string>
+   <list>
+    <reference key="74"></reference>
+   </list>
    <string role="key" value="2b76b2743d53819da3e816aa3b6fb419"></string>
    <list>
     <reference key="67"></reference>
@@ -10105,7 +10168,7 @@ $(window).load(function(){
    </list>
    <string role="key" value="3cff8c082315b929e299fbf99277db55"></string>
    <list>
-    <reference key="146"></reference>
+    <reference key="147"></reference>
    </list>
    <string role="key" value="529c3af1b50f6e664401d06bbeabd4dc"></string>
    <list>
@@ -10117,7 +10180,7 @@ $(window).load(function(){
    </list>
    <string role="key" value="5945ea5835669acb65f33c39bbb56536"></string>
    <list>
-    <reference key="89"></reference>
+    <reference key="90"></reference>
    </list>
    <string role="key" value="89dac2902a6a6945e95399be574fb492"></string>
    <list>
