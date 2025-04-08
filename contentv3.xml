@@ -6409,7 +6409,7 @@ $(window).load(function(){
 &lt;ul&gt;
 &lt;li&gt;Bohr supuso también que la cantidad de movimiento angular o momento cinético de un electrón respecto al centro del átomo (más precisamente, su módulo) no podía tener cualquier valor sino&lt;br /&gt;que éste debía ser un múltiplo entero de h/2. &lt;br /&gt;$$L=n\frac{h}{2\pi}$$ donde &quot;n&quot; es el número cuántico principal. (n=1,2,3,... niveles energéticos)
 &lt;ul&gt;
-&lt;li&gt;El momento angular recordamos que es $\vec L = \vec r x \vec p$ , en módulo y si el radio es perpendicular a la velocidad $\leftarrow$ &lt;strong&gt;&lt;em&gt;L=mvr&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;El momento angular recordamos que es $$\vec L = \vec r x \vec p$$ , en módulo y si el radio es perpendicular a la velocidad&lt;br /&gt;&lt;strong&gt;&lt;em&gt;L=mvr&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;/strong&gt;Para el átomo de hidrógeno se conoce el valor de su radio:&lt;br /&gt;&lt;img src=&quot;resources/imagen.5.png&quot; width=&quot;233&quot; height=&quot;86&quot; alt=&quot;Libro Física 2º Bachillerato&quot; /&gt;&lt;/li&gt;
