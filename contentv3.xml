@@ -6825,7 +6825,7 @@ $(window).load(function(){
 &lt;li&gt;Se van a diferenciar según los valores del número atómico, Z, y el número másico, A.&lt;/li&gt;
 &lt;li&gt;Con esto podemos diferenciar los siguientes &lt;strong&gt;tipos de átomos:&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Isótopos: mismo Z y distinto A. &lt;/strong&gt;&lt;em&gt;Ejemplo: $_{6}^{12}\textrm{C}$, $_{6}^{14}\textrm{C}$&lt;br /&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Isótopos: mismo Z y distinto A. &lt;/strong&gt;&lt;em&gt;Ejemplo: $_{6}^{12}\textrm{C}$ ,  $_{6}^{14}\textrm{C}$&lt;br /&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Isóbaros: distinto Z y mismo A&lt;/strong&gt;. &lt;em&gt;Ejemplo: $_{30}^{60}\textrm{Zn}$, $_{29}^{60}\textrm{Cu}$&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Isótonos: mismo N. &lt;/strong&gt;&lt;em&gt;Ejemplo: $_{26}^{57}\textrm{Fe}$, $_{27}^{58}\textrm{Co}$&lt;/em&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Isómeros: mismos Z,N y A&lt;/strong&gt;. Sólo cambia su estructura interior debido a una distribución distinta de su energía.&lt;/li&gt;
@@ -9925,7 +9925,7 @@ $(window).load(function(){
   <string role="key" value="backgroundImgTile"></string>
   <bool value="1"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="113"></reference>
+  <reference key="152"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
